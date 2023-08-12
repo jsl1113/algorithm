@@ -15,11 +15,10 @@
 ## 📍 Progress Record
 |  | 문제 | 윤소민 | 이지선 | 
 | :---: | :---: | :---: | :---: | 
-| Week 01</br>(23.08.13) |[B15686](https://www.acmicpc.net/problem/15686) | ✅ | ✅ | 
-|  |[B2559](https://www.acmicpc.net/problem/2559) | ✅ | ✅ |
-| Week 02</br>(23.08.13) | [B17298](https://www.acmicpc.net/problem/17298) | ✅ | ✅ |
-|  | [B17626](https://www.acmicpc.net/problem/17626) | ✅ | ❔ | 
-|  | [B16948](https://www.acmicpc.net/problem/16948) | - | ❔ |
+| Week 01 (23.08.13) |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ❔ | ❔ | 
+|  |[B14425 문자열 집합](https://www.acmicpc.net/problem/14425) | ❔ | ❔ |
+|  |[B9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | ❔ | ❔ |
+
 
 | 해결 여부 | 표기 |
 | :---: | :---: |
@@ -27,27 +26,8 @@
 | 미해결 | ❔ |
 | 참고 | ☑️ |
 | 시도 X | ❌ <br/>(사유) |
+
 <br>
-
-## 📋 PR
-> BaekJoon : BOJ  
-Programmers : PRO  
-SW Expert Academy : SWEA  
-다른 문제 사이트는 ETC로 표기
-- PR제목 양식 : [week1] B문제번호_문제제목, P문제번호_문제제목
-- File 양식 : 이름 / week_N / B00000_문제제목 
-
-## 📍 Commit Message Convention
-- ➕ [ADD] : 문제 풀이 파일이나 부수적인 코드 추가
-- ✅ [MOD] : 코드 및 내부 파일 수정
-- 🗑 [DEL] : 쓸모없는 코드나 파일 삭제
-- ✏️ [CORRECT] : 문법 오류 해결, 타입 변경, 이름 변경 등의 작은 수정
-- 📄 [DOCS] : README 등의 문서 개정
-- 🚚 [MOVE] : 프로젝트 파일 및 코드 이동
-- 🔁 [RENAME] : 파일 이름 변경
-- 🔀 [MERGE] : 다른 브랜치와의 충돌 해결 후 Merge
-- ♻️ [REFACTOR] : 전면 수정
-<br></br>
 
 ## 🔗 GitHub
 [sowowowos](https://github.com/sowowowos) <br/>
