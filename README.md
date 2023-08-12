@@ -15,10 +15,10 @@
 ## 📍 Progress Record
 |  | 문제 | 윤소민 | 이지선 | 
 | :---: | :---: | :---: | :---: | 
-| Week 01 (23.08.13) |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ❔ | ❔ | 
+| Week 01 (23.08.13) |[B9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | ❔ | ❔ |
 |  |[B14425 문자열 집합](https://www.acmicpc.net/problem/14425) | ❔ | ❔ |
 | Week 02 (23.08.20) |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ❔ | ❔ | 
-|  |[B9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | ❔ | ❔ |
+|  |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ❔ | ❔ | 
 
 
 | 해결 여부 | 표기 |
