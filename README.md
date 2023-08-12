@@ -14,7 +14,6 @@
 ## 📍 Progress Record
 |  | 문제 | 윤소민 | 이지선 | 
 | :---: | :---: | :---: | :---: | 
-| GitHub | | [sowowowos](https://github.com/sowowowos) | [sowowowos](https://github.com/sowowowos) |
 | Week 01</br>(23.08.13) |[B15686](https://www.acmicpc.net/problem/15686) | ✅ | ✅ | 
 |  |[B2559](https://www.acmicpc.net/problem/2559) | ✅ | ✅ |
 | Week 02</br>(23.08.13) | [B17298](https://www.acmicpc.net/problem/17298) | ✅ | ✅ |
@@ -27,3 +26,9 @@
 | 미해결 | ❔ |
 | 참고 | ☑️ |
 | 시도 X | ❌ <br/>(사유) |
+
+<br>
+
+## 🔗 GitHub
+[sowowowos](https://github.com/sowowowos) <br/>
+[jsl1113](https://www.acmicpc.net/user/jsl1113) <br/>
