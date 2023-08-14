@@ -37,7 +37,10 @@
 - ✏️ [CORRECT] : 문법 오류 해결, 타입 변경, 이름 변경 등의 작은 수정
 - 🚚 [MOVE] : 프로젝트 파일 및 코드 이동
 
+<br>
 
 ## 🔗 GitHub
-[sowowowos](https://github.com/sowowowos) <br/>
-[jsl1113](https://www.acmicpc.net/user/jsl1113) <br/>
+
+|<a href="https://github.com/sowowowos">윤소민</a>|<a href="https://www.acmicpc.net/user/jsl1113">이지선</a>|
+| :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/jsl1113/algorithm/assets/55522275/c371aca0-2686-4aab-a8e8-975ebe22a74b" width="250" height="250"/> | <img src="https://github.com/jsl1113/algorithm/assets/55522275/94b5d225-d4df-4363-912c-dfa60788ad7b" width="250" height="250"/> |
