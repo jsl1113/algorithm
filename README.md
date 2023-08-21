@@ -13,14 +13,14 @@
 <br>
 
 ## 🥇 Progress
-|  | 문제 | 윤소민 | 이지선 | 
-| :---: | :---: | :---: | :---: | 
-| Week 01 (23.08.13) |[B9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | ✅ | ✅ |
-|  |[B14425 문자열 집합](https://www.acmicpc.net/problem/14425) | ✅ | ✅ |
-| Week 02 (23.08.20) |[B15686 치킨 배달](https://www.acmicpc.net/problem/15686) | ❔ | ❔ | 
-|  |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ✅ | ✅ | 
-|  |[B1463 1로 만들기](https://www.acmicpc.net/problem/1463) | ✅ | ✅ | 
-|  |[B1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | ✅ | ✅ | 
+|  | 문제 | 윤소민 | 이지선 | 복습 |
+| :---: | :---: | :---: | :---: | :---: | 
+| Week 01 (23.08.13) |[B9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | ✅ | ✅ |   |
+|  |[B14425 문자열 집합](https://www.acmicpc.net/problem/14425) | ✅ | ✅ |  |
+| Week 02 (23.08.20) |[B15686 치킨 배달](https://www.acmicpc.net/problem/15686) | ❔ | ❔ | 23.09.03  |
+|  |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ✅ | ✅ |   |
+|  |[B1463 1로 만들기](https://www.acmicpc.net/problem/1463) | ✅ | ✅ |   |
+|  |[B1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | ✅ | ✅ |   |
 
 
 | 해결 여부 | 표기 |
