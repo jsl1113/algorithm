@@ -22,15 +22,20 @@
 | :---: | :---: | :---: | :---: | :---: | 
 | Week 01 (23.08.13) |[B9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | ✅ | ✅ |   |
 |  |[B14425 문자열 집합](https://www.acmicpc.net/problem/14425) | ✅ | ✅ |  |
-| Week 02 (23.08.20) |[B15686 치킨 배달](https://www.acmicpc.net/problem/15686) | ❔ | ☑️ | 23.09.03  |
+| Week 02 (23.08.20) |[B15686 치킨 배달](https://www.acmicpc.net/problem/15686) | ☑️ | ☑️ | 23.09.03  |
 |  |[B4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | ✅ | ✅ |   |
 |  |[B1463 1로 만들기](https://www.acmicpc.net/problem/1463) | ✅ | ✅ |   |
 |  |[B1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | ✅ | ✅ |   |
-| Week 03 (23.08.27) |[B15661 링크와 스타트](https://www.acmicpc.net/problem/15661) |   |   |   |
-|  |[B16439 치킨치킨치킨](https://www.acmicpc.net/problem/16439) |   | ✅  |   |
-|  |[B15649  N과 M (1)](https://www.acmicpc.net/problem/15649) |   |  ✅  |   |
-|  |[B15650 N과 M (2)](https://www.acmicpc.net/problem/15650) |   |  ✅  |   |
-|  |[B15651 N과 M (3)](https://www.acmicpc.net/problem/15651) |   | ✅   |   |
+| Week 03 (23.08.27) |[B15661 링크와 스타트](https://www.acmicpc.net/problem/15661) |❔ | ❔ | 23.09.10 |
+|  |[B16439 치킨치킨치킨](https://www.acmicpc.net/problem/16439) | ☑️ | ✅  | 23.09.10 |
+|  |[B15649  N과 M (1)](https://www.acmicpc.net/problem/15649) | ✅ |  ✅  |   |
+|  |[B15650 N과 M (2)](https://www.acmicpc.net/problem/15650) | ✅ |  ✅  |   |
+|  |[B15651 N과 M (3)](https://www.acmicpc.net/problem/15651) | ☑️ | ✅   |   |
+| Week 04 (23.09.03) |[B2961  도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961 ) | |  | |
+|  |[B15652  N과 M (4)](https://www.acmicpc.net/problem/15652) |  |   |   |
+|  |[B15654 N과 M (5)](https://www.acmicpc.net/problem/15654) |  |   |   |
+|  |[B15655 N과 M (6)](https://www.acmicpc.net/problem/15655) |  |  |   |
+|  |[B1182 부분수열의 합](https://www.acmicpc.net/problem/1182) |  |  | |
 
 
 | 해결 여부 | 표기 |
