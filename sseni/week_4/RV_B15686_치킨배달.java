@@ -8,14 +8,13 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 // 아 dfs 치킨 집 좌표 출력했을 때 중복 제거해야 한다는 걸 눈치챘어야 했는데
-// 순열이 아니라 조합. 
+// 순열이 아니라 조합.
 // 기억하자
 public class RV_B15686 {
     static int n, m, dis;
     static List<Point> house;
     static List<Point> chicken;
     static int[][] cities;
-    static boolean[] isVisited;
 
     public static class Point {
         int x, y;
@@ -45,7 +44,6 @@ public class RV_B15686 {
             }
         }
 
-        isVisited = new boolean[chicken.size()];
         if(chicken.size() == m) {
             dis = getDistance(chicken);
         }
@@ -63,13 +61,9 @@ public class RV_B15686 {
         }
 
         for (int i = start; i < chicken.size(); i++) {
-            if(!isVisited[i]){
-                isVisited[i] = true;
-                list.add(chicken.get(i));
-                dfs(cnt + 1, i, list);
-                isVisited[i] = false;
-                list.remove(list.size() - 1);
-            }
+            list.add(chicken.get(i));
+            dfs(cnt + 1, i, list);
+            list.remove(list.size() - 1);
         }
     }
 
