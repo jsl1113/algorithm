@@ -31,7 +31,7 @@
 |  |[B15649  N과 M (1)](https://www.acmicpc.net/problem/15649) | ✅ |  ✅  |   |
 |  |[B15650 N과 M (2)](https://www.acmicpc.net/problem/15650) | ✅ |  ✅  |   |
 |  |[B15651 N과 M (3)](https://www.acmicpc.net/problem/15651) | ☑️ | ✅   |   |
-| Week 04 (23.09.03) |[B2961  도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961 ) | | ✅ | ✅ |
+| Week 04 (23.09.03) |[B2961  도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961 ) | ✅ | ✅ |  |
 |  |[B15652  N과 M (4)](https://www.acmicpc.net/problem/15652) | ✅ | ☑️  |   |
 |  |[B15654 N과 M (5)](https://www.acmicpc.net/problem/15654) | ☑️ | ✅  |   |
 |  |[B15655 N과 M (6)](https://www.acmicpc.net/problem/15655) | ✅ | ✅ |   |
