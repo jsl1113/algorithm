@@ -35,11 +35,19 @@
 |  |[B15652  N과 M (4)](https://www.acmicpc.net/problem/15652) | ✅ | ☑️  |   |
 |  |[B15654 N과 M (5)](https://www.acmicpc.net/problem/15654) | ☑️ | ✅  |   |
 |  |[B15655 N과 M (6)](https://www.acmicpc.net/problem/15655) | ✅ | ✅ |   |
-|  |[B1182 부분수열의 합](https://www.acmicpc.net/problem/1182) | ✅ | ✅ | |
+|  |[B1182 부분수열의 합](https://www.acmicpc.net/problem/1182) | ✅ | ✅ |  |
 | Week 05 (23.09.10) |[B1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915 ) | ☑️ | ☑️ | 23.09.24 |
 |  |[B17626 Four Squares](https://www.acmicpc.net/problem/17626) |☑️  | ☑️  | 23.09.24  |
 |  |[B11055  가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | ☑️ | ✅  | 23.09.24  |
 |  |[B10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844) | ☑️ | ✅ |   |
+| Week 06 (23.09.17) |[B2156 포도주 시식](https://www.acmicpc.net/problem/2156 ) |   |   |   |
+|  |[B11726 2×n 타일링](https://www.acmicpc.net/problem/11726) |   |    |    |
+|  |[B2407 조합](https://www.acmicpc.net/problem/2407) |   |    |    |
+|  |[B1912 연속합](https://www.acmicpc.net/problem/1912) |   |   |   |
+| Week 07 (23.09.24) |[B1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915 ) |   |   |   |
+|  |[B17626 Four Squares](https://www.acmicpc.net/problem/17626) |   |    |    |
+|  |[B11055  가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |   |    |    |
+|  |[B10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |   |   |   |
 
 
 
