@@ -50,9 +50,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) |☑️| ✅   |    |
 |  |[B2178 미로 탐색](https://www.acmicpc.net/problem/2178) | ☑️ | ☑️  |   |
 | Week 07 (23.09.24) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325 ) |   |   |   |
-|  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |   |    |    |
-|  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |   |    |    |
-|  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |   |   |   |
+|  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |   | ☑️  |    |
+|  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |   | ✅   |    |
+|  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |   |  ✅ |   |
 | Week 08 (23.09.27) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325 ) |   |   |   |
 |  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |   |    |    |
 |  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |   |    |    |
