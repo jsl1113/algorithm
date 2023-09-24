@@ -49,15 +49,15 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2606 바이러스](https://www.acmicpc.net/problem/2606) | ✅ |  ☑️  |    |
 |  |[B1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) |☑️| ✅   |    |
 |  |[B2178 미로 탐색](https://www.acmicpc.net/problem/2178) | ☑️ | ☑️  |   |
-| Week 07 (23.09.24) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325 ) |   |   |   |
+| Week 07 (23.09.24) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325) |   | ✅   |   |
 |  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | ✅ | ☑️  |    |
 |  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |✅ | ✅   |    |
 |  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |☑️ |  ✅ |   |
-| Week 08 (23.09.27) |[B12919 A와 B 2](https://www.acmicpc.net/problem/12919 ) |   |   |   |
+| Week 08 (23.09.27) |[B12919 A와 B 2](https://www.acmicpc.net/problem/12919) |   |   |   |
 |  |[B14620 꽃길](https://www.acmicpc.net/problem/14620) |   |    |    |
 |  |[B1548 부분 삼각 수열](https://www.acmicpc.net/problem/1548) |   |    |    |
 |  |[B1149 RGB거리](https://www.acmicpc.net/problem/1149) |   |   |   |
-| Week 08 (23.09.27) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325 ) |   |   |   |
+| Week 08 (23.09.27) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325) |   |   |   |
 |  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |   |    |    |
 |  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |   |    |    |
 |  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |   |   |   |
