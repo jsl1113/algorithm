@@ -48,7 +48,7 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 07 (23.09.20) |[B2667 단지번호붙이기](https://www.acmicpc.net/problem/2667 ) |✅ |  ✅ |   |
 |  |[B2606 바이러스](https://www.acmicpc.net/problem/2606) | ✅ |  ☑️  |    |
 |  |[B1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) |☑️| ✅   |    |
-|  |[B2178 미로 탐색](https://www.acmicpc.net/problem/2178) | ☑️ | ☑️  |   |
+|  |[B2178 미로 탐색](https://www.acmicpc.net/problem/2178) | ☑️ | ☑️  | 23.10.01  |
 | Week 07 (23.09.24) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325) | ☑️ | ✅   | 23.10.01  |
 |  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | ✅ | ☑️  |    |
 |  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |✅ | ✅   |    |
