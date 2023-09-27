@@ -53,11 +53,16 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | ✅ | ☑️  |    |
 |  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |✅ | ✅   |    |
 |  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |☑️ |  ✅ |   |
-| Week 08 (23.09.27) |[B12919 A와 B 2](https://www.acmicpc.net/problem/12919) |   |   |   |
+| Week 08 (23.09.27) |[B12919 A와 B 2](https://www.acmicpc.net/problem/12919) | ☑️ | ✅ |   |
 |  |[B14620 꽃길](https://www.acmicpc.net/problem/14620) | ✅ |  ✅  |    |
 |  |[B1548 부분 삼각 수열](https://www.acmicpc.net/problem/1548) | ☑️| ☑️   |    |
 |  |[B1149 RGB거리](https://www.acmicpc.net/problem/1149) |✅|  ✅ |   |
-| Week 08 (23.09.27) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325) |   |   |   |
+| Week 08 (23.09.30) |[B21278 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |   |   |   |
+|  |[B1411 비슷한 단어](https://www.acmicpc.net/problem/1411) |   |    |    |
+|  |[B1503 세 수 고르기](https://www.acmicpc.net/problem/1503) |   |    |    |
+|  |[B14501 퇴사](https://www.acmicpc.net/problem/14501) |   |    |    |
+|  |[B16508 전공책](https://www.acmicpc.net/problem/16508) |   |   |   |
+| Week 09 (23.10.04) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325) |   |   |   |
 |  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |   |    |    |
 |  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |   |    |    |
 |  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |   |   |   |
