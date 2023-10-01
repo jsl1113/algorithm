@@ -9,6 +9,7 @@ import java.util.StringTokenizer;
 // 결론은 못 풀었다.
 // 예제는 다 맞게 나오고 정답이라고 생각했는데,,
 // 답을 보려고 해도 푼 사람 얼마 있지도 않아서 .. 틀렸습니다 를 해결 못 했다. 흠
+// 해결했습니다.
 public class B1503 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -16,16 +17,16 @@ public class B1503 {
         int n = Integer.parseInt(st.nextToken());
         int m = Integer.parseInt(st.nextToken());
 
-        int[] arr = new int[n + 1];
+        int[] arr = new int[1002];
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < m; i++) {
             arr[Integer.parseInt(st.nextToken())] = 1;
         }
 
         int answer = Integer.MAX_VALUE;
-        for (int i = 1; i <= n; i++) {
-            for (int j = i; j <= n; j++) {
-                for (int k = j; k <= n; k++) {
+        for (int i = 1; i <= 1000; i++) {
+            for (int j = i; j <= 1000; j++) {
+                for (int k = j; k <= 1001; k++) {
                     if (arr[k] == 1 || arr[j] == 1 || arr[i] == 1) {
                         continue;
                     }
