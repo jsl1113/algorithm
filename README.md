@@ -57,7 +57,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B14620 꽃길](https://www.acmicpc.net/problem/14620) | ✅ |  ✅  |    |
 |  |[B1548 부분 삼각 수열](https://www.acmicpc.net/problem/1548) | ☑️| ☑️   |    |
 |  |[B1149 RGB거리](https://www.acmicpc.net/problem/1149) |✅|  ✅ |   |
-| Week 08 (23.10.01) |[B21278 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |   |   |   |
+| Week 08 (23.10.01) |[B21278 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |   |  ✅ |   |
 |  |[B1411 비슷한 단어](https://www.acmicpc.net/problem/1411) | ☑️ |  ✅  | 23.10.15 |
 |  |[B1503 세 수 고르기](https://www.acmicpc.net/problem/1503) | ✅ |  ☑️  |    |
 |  |[B14501 퇴사](https://www.acmicpc.net/problem/14501) |☑️  |  ✅  |    |
