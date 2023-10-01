@@ -62,10 +62,14 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1503 세 수 고르기](https://www.acmicpc.net/problem/1503) | ✅ |  ☑️  |    |
 |  |[B14501 퇴사](https://www.acmicpc.net/problem/14501) |☑️  |  ✅  |    |
 |  |[B16508 전공책](https://www.acmicpc.net/problem/16508) | ☑️| ☑️  | 23.10.15  |
-| Week 09 (23.10.04) |[B1325 효율적인 해킹](https://www.acmicpc.net/problem/1325) |   |   |   |
-|  |[B11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |   |    |    |
-|  |[B7576 토마토](https://www.acmicpc.net/problem/7576) |   |    |    |
-|  |[B11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |   |   |   |
+| Week 09 (23.10.04) |[B16637 괄호 추가하기](https://www.acmicpc.net/problem/16637) |   |   |   |
+|  |[B3986 좋은 단어](https://www.acmicpc.net/problem/3986) |   |    |    |
+|  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) |   |    |    |
+|  |[B2688 줄어들지 않아](https://www.acmicpc.net/problem/2688) |   |   |   |
+| Week 09 (23.10.08) |[B16637 괄호 추가하기](https://www.acmicpc.net/problem/16637) |   |   |   |
+|  |[B3986 좋은 단어](https://www.acmicpc.net/problem/3986) |   |    |    |
+|  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) |   |    |    |
+|  |[B2688 줄어들지 않아](https://www.acmicpc.net/problem/2688) |   |   |   |
 
 
 
