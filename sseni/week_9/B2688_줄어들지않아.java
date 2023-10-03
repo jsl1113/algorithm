@@ -36,10 +36,6 @@ public class B2688_줄어들지않아 {
             }
         }
 
-        long sum = 0L;
-        for (int i = 0; i <= 9; i++) {
-            sum += dp[n][i];
-        }
-        return sum;
+        return Arrays.stream(dp[n]).sum();
     }
 }
