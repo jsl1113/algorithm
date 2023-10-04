@@ -14,7 +14,6 @@ public class B16637_괄호추가하기 {
     static ArrayList<Integer> numList;
     static ArrayList<Character> opList;
 
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
