@@ -63,9 +63,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B14501 퇴사](https://www.acmicpc.net/problem/14501) |☑️  |  ✅  |    |
 |  |[B16508 전공책](https://www.acmicpc.net/problem/16508) | ☑️| ☑️  | 23.10.15  |
 | Week 09 (23.10.04) |[B16637 괄호 추가하기](https://www.acmicpc.net/problem/16637) |   |   |   |
-|  |[B3986 좋은 단어](https://www.acmicpc.net/problem/3986) |   |  ✅  |    |
-|  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) |   |  ✅  |    |
-|  |[B2688 줄어들지 않아](https://www.acmicpc.net/problem/2688) |   | ✅  |   |
+|  |[B3986 좋은 단어](https://www.acmicpc.net/problem/3986) | ✅  |  ✅  |    |
+|  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) | ✅  |  ✅  |    |
+|  |[B2688 줄어들지 않아](https://www.acmicpc.net/problem/2688) | ✅  | ✅  |   |
 | Week 09 (23.10.08) |[B16637 괄호 추가하기](https://www.acmicpc.net/problem/16637) |   |   |   |
 |  |[B3986 좋은 단어](https://www.acmicpc.net/problem/3986) |   |    |    |
 |  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) |   |    |    |
