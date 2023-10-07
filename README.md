@@ -67,9 +67,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) | ✅  |  ✅  |    |
 |  |[B2688 줄어들지 않아](https://www.acmicpc.net/problem/2688) | ✅  | ✅  |   |
 | Week 09 (23.10.08) |[B3085 사탕 게임](https://www.acmicpc.net/problem/3085) |   |   |   |
-|  |[B10799 쇠막대기](https://www.acmicpc.net/problem/10799) |   |  ✅   |    |
-|  |[B2800 괄호 제거](https://www.acmicpc.net/problem/2800) |   |   ✅  |    |
-|  |[B1302 베스트셀러](https://www.acmicpc.net/problem/1302) |   |  ✅  |   |
+|  |[B10799 쇠막대기](https://www.acmicpc.net/problem/10799) | ✅  |  ✅   |    |
+|  |[B2800 괄호 제거](https://www.acmicpc.net/problem/2800) | ☑️ |   ✅  |    |
+|  |[B1302 베스트셀러](https://www.acmicpc.net/problem/1302) |  ✅ |  ✅  |   |
 | Week 10 (23.10.11) |[B16637 괄호 추가하기](https://www.acmicpc.net/problem/16637) |   |   |   |
 |  |[B10799 쇠막대기](https://www.acmicpc.net/problem/10799) |   |    |    |
 |  |[B2800 괄호 제거](https://www.acmicpc.net/problem/2800) |   |    |    |
