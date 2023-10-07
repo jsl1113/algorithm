@@ -50,7 +50,7 @@ public class B2800_괄호제거 {
         // 쌍이 되는 괄호 구하기
         int start = input.indexOf('(');
         stack.push(start);
-        for (int i = 1; i < input.length(); i++) {
+        for (int i = start + 1; i < input.length(); i++) {
             char c = input.charAt(i);
             if (c != '(' && c != ')') continue;
             if (c == '(') {
