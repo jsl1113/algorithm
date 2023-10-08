@@ -66,7 +66,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B3986 좋은 단어](https://www.acmicpc.net/problem/3986) | ✅  |  ✅  |    |
 |  |[B1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) | ✅  |  ✅  |    |
 |  |[B2688 줄어들지 않아](https://www.acmicpc.net/problem/2688) | ✅  | ✅  |   |
-| Week 09 (23.10.08) |[B3085 사탕 게임](https://www.acmicpc.net/problem/3085) | ☑️ | ☑️ |   |
+| Week 09 (23.10.08) |[B3085 사탕 게임](https://www.acmicpc.net/problem/3085) | ☑️ | ☑️ | 23.10.22 |
 |  |[B10799 쇠막대기](https://www.acmicpc.net/problem/10799) | ✅  |  ✅   |    |
 |  |[B2800 괄호 제거](https://www.acmicpc.net/problem/2800) | ☑️ |   ✅  |    |
 |  |[B1302 베스트셀러](https://www.acmicpc.net/problem/1302) |  ✅ |  ✅  |   |
