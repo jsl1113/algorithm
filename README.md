@@ -74,7 +74,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10815 숫자 카드](https://www.acmicpc.net/problem/10815) |   |    |    |
 |  |[B11663 선분 위의 점](https://www.acmicpc.net/problem/11663) |   |    |    |
 |  |[B2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |   |   |   |
-
+| Week 10 (23.10.14) |[B1654 랜선 자르기](https://www.acmicpc.net/problem/1654) |   |   |   |
+|  |[B10815 숫자 카드](https://www.acmicpc.net/problem/10815) |   |    |    |
+|  |[B11663 선분 위의 점](https://www.acmicpc.net/problem/11663) |   |    |    |
+|  |[B2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |   |   |   |
 
 
 | 해결 여부 | 표기 |
