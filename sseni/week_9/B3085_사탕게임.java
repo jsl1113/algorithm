@@ -28,34 +28,28 @@ public class B3085_사탕게임 {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n - 1; j++) {
-                char tmp = arr[i][j];
-                arr[i][j] = arr[i][j + 1];
-                arr[i][j + 1] = tmp;
-
+                swap(i, i, j, j + 1, arr);
                 search(n, arr);
-
-                tmp = arr[i][j];
-                arr[i][j] = arr[i][j + 1];
-                arr[i][j + 1] = tmp;
+                swap(i, i, j, j + 1, arr);
             }
         }
 
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n - 1; j++) {
-                char tmp = arr[j][i];
-                arr[j][i] = arr[j + 1][i];
-                arr[j + 1][i] = tmp;
-
+                swap(j, j+1, i, i, arr);
                 max = Math.max(search(n, arr), max);
-
-                tmp = arr[j][i];
-                arr[j][i] = arr[j + 1][i];
-                arr[j + 1][i] = tmp;
+                swap(j, j+1, i, i, arr);
             }
         }
 
         System.out.println(max);
+    }
+
+    public static void swap(int x1, int x2, int y1, int y2, char[][] arr) {
+        char tmp = arr[x1][y1];
+        arr[x1][y1] = arr[x2][y2];
+        arr[x2][y2] = tmp;
     }
 
     public static int search(int n, char[][] arr) {
