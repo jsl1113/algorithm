@@ -91,9 +91,7 @@ https://www.acmicpc.net/group/workbook/18638
 
 ## 📜 Commit Message
 - ➕ [ADD] : 문제 풀이 파일이나 부수적인 코드 추가
-- ✅ [MOD] : 코드 및 내부 파일 수정
-- ✏️ [CORRECT] : 문법 오류 해결, 타입 변경, 이름 변경 등의 작은 수정
-- 🚚 [MOVE] : 프로젝트 파일 및 코드 이동
+- ✍ [MOD] : 코드 및 내부 파일 수정
 - 🌳 [REVIEW] : 복습 문제 업로드 시
 
 <br>
