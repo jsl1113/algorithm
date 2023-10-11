@@ -70,7 +70,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10799 쇠막대기](https://www.acmicpc.net/problem/10799) | ✅  |  ✅   |    |
 |  |[B2800 괄호 제거](https://www.acmicpc.net/problem/2800) | ☑️ |   ✅  |    |
 |  |[B1302 베스트셀러](https://www.acmicpc.net/problem/1302) |  ✅ |  ✅  |   |
-| Week 10 (23.10.11) |[B1654 랜선 자르기](https://www.acmicpc.net/problem/1654) |   |   |   |
+| Week 10 (23.10.11) |[B1654 랜선 자르기](https://www.acmicpc.net/problem/1654) |  ☑️ |✅  |   |
 |  |[B10815 숫자 카드](https://www.acmicpc.net/problem/10815) | ✅ |  ✅  |    |
 |  |[B11663 선분 위의 점](https://www.acmicpc.net/problem/11663) |☑️ |  ☑️  |    |
 |  |[B2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |  ✅| ✅  |   |
