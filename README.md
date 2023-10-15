@@ -74,7 +74,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10815 숫자 카드](https://www.acmicpc.net/problem/10815) | ✅ |  ✅  |    |
 |  |[B11663 선분 위의 점](https://www.acmicpc.net/problem/11663) |☑️ |  ☑️  | 23.10.25 |
 |  |[B2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |  ✅| ✅  |   |
-| Week 10 (23.10.15) |[B2470 두 용액](https://www.acmicpc.net/problem/2470) |   |   |   |
+| Week 10 (23.10.15) |[B2470 두 용액](https://www.acmicpc.net/problem/2470) | ☑️ |   |   |
 |  |[B11399 ATM](https://www.acmicpc.net/problem/11399) |✅ | ✅  |    |
 |  |[B22871 징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) | ☑️ |  ☑️  |    |
 |  |[B2110 공유기 설치](https://www.acmicpc.net/problem/2110) | ☑️  | ✅  |   |
