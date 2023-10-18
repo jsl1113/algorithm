@@ -27,8 +27,8 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 11 (23.10.18) |[B13164 행복 유치원](https://www.acmicpc.net/problem/13164) |   |   |   |
 |  |[B15810 풍선 공장](https://www.acmicpc.net/problem/15810) | ✅ | ✅  |    |
 |  |[B1931 회의실 배정](https://www.acmicpc.net/problem/1931) | ✅ | ✅  |    |
-|  |[B19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | ☑️ |  ☑️ |    |
-| Week 10 (23.10.15) |[B2470 두 용액](https://www.acmicpc.net/problem/2470) | ☑️ | ☑️  |   |
+|  |[B19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | ☑️ |  ☑️ | 23.11.01   |
+| Week 10 (23.10.15) |[B2470 두 용액](https://www.acmicpc.net/problem/2470) | ☑️ | ☑️  |  23.10.29 |
 |  |[B11399 ATM](https://www.acmicpc.net/problem/11399) |✅ | ✅  |    |
 |  |[B22871 징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) | ☑️ |  ☑️  |    |
 |  |[B2110 공유기 설치](https://www.acmicpc.net/problem/2110) | ☑️  | ✅  |   |
