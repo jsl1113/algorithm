@@ -21,7 +21,7 @@ public class B11497_통나무건너뛰기 {
 
             Arrays.sort(arr);
             int[] result = new int[n];
-            int start = 0, end = n - 1, idx = 1;
+            int start = 0, end = n - 1;
             for (int i = 0; i < n; i++) {
                 if (i % 2 == 0) result[end--] = arr[i];
                 else result[start++] = arr[i];
