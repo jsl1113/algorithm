@@ -20,7 +20,7 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: | 
-| Week 11 (23.10.22) |[B11497 통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |✅|   |   |
+| Week 11 (23.10.22) |[B11497 통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |✅| ✅  |   |
 |  |[B14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | ✅ | ✅  |    |
 |  |[B5710 전기 요금](https://www.acmicpc.net/problem/5710) |✅  |  ✅ |    |
 |  |[B17281 ⚾](https://www.acmicpc.net/problem/17281) | ☑️   | ☑️  |    |
