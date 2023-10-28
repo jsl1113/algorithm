@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) |    |   |    |
 | Week 12 (23.10.29) |[B2225 합분해](https://www.acmicpc.net/problem/2225) |   |   |   |
-|  |[B1991 트리 순회](https://www.acmicpc.net/problem/1991) |   | ✅  |    |
-|  |[B17615 볼 모으기](https://www.acmicpc.net/problem/17615) |   | ✅  |    |
-|  |[B21758 꿀 따기](https://www.acmicpc.net/problem/21758) |    | ☑️  |    |
+|  |[B1991 트리 순회](https://www.acmicpc.net/problem/1991) |☑️ | ✅  |    |
+|  |[B17615 볼 모으기](https://www.acmicpc.net/problem/17615) |✅ | ✅  |    |
+|  |[B21758 꿀 따기](https://www.acmicpc.net/problem/21758) | ☑️ | ☑️  |    |
 | Week 12 (23.10.25) |[B14247 나무 자르기](https://www.acmicpc.net/problem/14247) | ✅|  ✅ |   |
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) | ✅| ✅ |    |
 |  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |☑️ | ☑️  |    |
