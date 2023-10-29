@@ -29,10 +29,10 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 12 (23.10.29) |[B2225 합분해](https://www.acmicpc.net/problem/2225) |   |   |   |
 |  |[B1991 트리 순회](https://www.acmicpc.net/problem/1991) |☑️ | ✅  |    |
 |  |[B17615 볼 모으기](https://www.acmicpc.net/problem/17615) |✅ | ✅  |    |
-|  |[B21758 꿀 따기](https://www.acmicpc.net/problem/21758) | ☑️ | ☑️  |    |
+|  |[B21758 꿀 따기](https://www.acmicpc.net/problem/21758) | ☑️ | ☑️  |23.11.12 |
 | Week 12 (23.10.25) |[B14247 나무 자르기](https://www.acmicpc.net/problem/14247) | ✅|  ✅ |   |
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) | ✅| ✅ |    |
-|  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |☑️ | ☑️  |    |
+|  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |☑️ | ☑️  | 23.11.08 |
 |  |[B20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) | ✅ |  ✅ |    |
 | Week 11 (23.10.22) |[B11497 통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |✅| ✅  |   |
 |  |[B14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | ✅ | ✅  |    |
