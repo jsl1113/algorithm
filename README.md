@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) |    |   |    |
 | Week 13 (23.11.02) |[B16953 A → B](https://www.acmicpc.net/problem/16953) |   |   |   |
-|  |[B9934 완전 이진 트리](https://www.acmicpc.net/problem/9934) |   | ✅  |    |
-|  |[B1068 트리](https://www.acmicpc.net/problem/1068) |   |  ☑️ |    |
-|  |[B3067 Coins](https://www.acmicpc.net/problem/3067) |    | ✅  |    |
+|  |[B9934 완전 이진 트리](https://www.acmicpc.net/problem/9934) |✅ | ✅  |    |
+|  |[B1068 트리](https://www.acmicpc.net/problem/1068) |✅|  ☑️ |    |
+|  |[B3067 Coins](https://www.acmicpc.net/problem/3067) |☑️| ✅  |    |
 | Week 12 (23.10.29) |[B2225 합분해](https://www.acmicpc.net/problem/2225) | ☑️| ☑️|   |
 |  |[B1991 트리 순회](https://www.acmicpc.net/problem/1991) |☑️ | ✅  |    |
 |  |[B17615 볼 모으기](https://www.acmicpc.net/problem/17615) |✅ | ✅  |    |
