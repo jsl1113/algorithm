@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B9372 상근이의 여행](https://www.acmicpc.net/problem/9372) |   |   |    |
 |  |[B1967 트리의 지름](https://www.acmicpc.net/problem/1967) |   |   |    |
 |  |[B14226 이모티콘](https://www.acmicpc.net/problem/14226) |    |   |    |
-| Week 13 (23.11.02) |[B16953 A → B](https://www.acmicpc.net/problem/16953) |  | ✅   |   |
+| Week 13 (23.11.02) |[B16953 A → B](https://www.acmicpc.net/problem/16953) |✅  | ✅   |   |
 |  |[B9934 완전 이진 트리](https://www.acmicpc.net/problem/9934) |✅ | ✅  |    |
 |  |[B1068 트리](https://www.acmicpc.net/problem/1068) |✅|  ☑️ |    |
 |  |[B3067 Coins](https://www.acmicpc.net/problem/3067) |☑️| ✅  |    |
