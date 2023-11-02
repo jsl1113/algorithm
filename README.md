@@ -22,10 +22,10 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: | 
-| Week 14 (23.11.08) |[B14247 나무 자르기](https://www.acmicpc.net/problem/14247) |   |   |   |
-|  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
-|  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |   |   |    |
-|  |[B20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) |    |   |    |
+| Week 14 (23.11.08) |[B5639 이진 검색 트리](https://www.acmicpc.net/problem/5639) |   |   |   |
+|  |[B9372 상근이의 여행](https://www.acmicpc.net/problem/9372) |   |   |    |
+|  |[B1967 트리의 지름](https://www.acmicpc.net/problem/1967) |   |   |    |
+|  |[B14226 이모티콘](https://www.acmicpc.net/problem/14226) |    |   |    |
 | Week 13 (23.11.05) |[B14247 나무 자르기](https://www.acmicpc.net/problem/14247) |   |   |   |
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |   |   |    |
