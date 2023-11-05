@@ -34,7 +34,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B9934 완전 이진 트리](https://www.acmicpc.net/problem/9934) |✅ | ✅  |    |
 |  |[B1068 트리](https://www.acmicpc.net/problem/1068) |✅|  ☑️ |    |
 |  |[B3067 Coins](https://www.acmicpc.net/problem/3067) |☑️| ✅  |    |
-| Week 12 (23.10.29) |[B2225 합분해](https://www.acmicpc.net/problem/2225) | ☑️| ☑️|   |
+| Week 12 (23.10.29) |[B2225 합분해](https://www.acmicpc.net/problem/2225) | ☑️| ☑️| 23.11.15  |
 |  |[B1991 트리 순회](https://www.acmicpc.net/problem/1991) |☑️ | ✅  |    |
 |  |[B17615 볼 모으기](https://www.acmicpc.net/problem/17615) |✅ | ✅  |    |
 |  |[B21758 꿀 따기](https://www.acmicpc.net/problem/21758) | ☑️ | ☑️  |23.11.12 |
