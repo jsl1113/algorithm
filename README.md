@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) |    |   |    |
 | Week 14 (23.11.09) | [B2644 촌수계산](https://www.acmicpc.net/problem/2644) |   |   |   |
-|  |[B1717 집합의 표현](https://www.acmicpc.net/problem/1717) |   |  ✅ |    |
-|  |[B9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |   | ☑️  |    |
-|  |[B1976 여행 가자](https://www.acmicpc.net/problem/1976) |    | ✅  |    |
+|  |[B1717 집합의 표현](https://www.acmicpc.net/problem/1717) | ✅ |  ✅ |    |
+|  |[B9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |✅ | ☑️  |    |
+|  |[B1976 여행 가자](https://www.acmicpc.net/problem/1976) |  ✅| ✅  |    |
 | Week 13 (23.11.05) |[B5639 이진 검색 트리](https://www.acmicpc.net/problem/5639) |☑️ | ✅  |   |
 |  |[B9372 상근이의 여행](https://www.acmicpc.net/problem/9372) |✅ | ✅  |    |
 |  |[B1967 트리의 지름](https://www.acmicpc.net/problem/1967) | ☑️ |  ☑️ | 23.11.19 |
