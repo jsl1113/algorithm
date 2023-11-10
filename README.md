@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1043 거짓말](https://www.acmicpc.net/problem/1043) |   |   |    |
 |  |[B14502 연구소](https://www.acmicpc.net/problem/14502) |   |   |    |
 |  |[B4195 친구 네트워크](https://www.acmicpc.net/problem/4195) |    |   |    |
-| Week 14 (23.11.09) | [B2644 촌수계산](https://www.acmicpc.net/problem/2644) |   |   |   |
+| Week 14 (23.11.09) | [B2644 촌수계산](https://www.acmicpc.net/problem/2644) | ✅|   |   |
 |  |[B1717 집합의 표현](https://www.acmicpc.net/problem/1717) | ✅ |  ✅ |    |
 |  |[B9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |✅ | ☑️  |    |
 |  |[B1976 여행 가자](https://www.acmicpc.net/problem/1976) |  ✅| ✅  |    |
