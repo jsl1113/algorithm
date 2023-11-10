@@ -39,28 +39,25 @@ public class B1043_거짓말 {
         }
 
         for (int i = 0; i < m; i++) {
-            String[] input = br.readLine().split(" ");
-
-            int num = Integer.parseInt(input[0]);
-            if (num <= 1) {
-                party[i].add(Integer.parseInt(input[1]));
-                continue;
+            st = new StringTokenizer(br.readLine());
+            int num = Integer.parseInt(st.nextToken());
+            if (num > 0) {
+                party[i].add(Integer.parseInt(st.nextToken()));
             }
 
             for (int j = 1; j < num; j++) {
-                int a = Integer.parseInt(input[j]);
-                int b = Integer.parseInt(input[j + 1]);
-                if (find(a) != find(b)) union(a, b);
-                party[i].add(a);
+                int a = party[i].get(j - 1);
+                int b = Integer.parseInt(st.nextToken());
                 party[i].add(b);
+                if (find(a) != find(b)) union(a, b);
             }
         }
 
         for (int i = 1; i <= n; i++) {
             if (list.contains(i)) {
                 int root = find(i);
-                for (int j = 1; j <= n; j++) {
-                    if(i != j && find(j) == root) {
+                for (int j = 1; j <= i; j++) {
+                    if (i != j && find(j) == root) {
                         list.add(j); // 진실을 아는 사람이랑 같은 파티원도 리스트에 추가해줌
                     }
                 }
@@ -76,12 +73,12 @@ public class B1043_거짓말 {
                     break;
                 }
             }
-            if(flag) cnt++;
+            if (flag) cnt++;
         }
 
-        // System.out.println(Arrays.toString(party));
-        // System.out.println(list);
-        // System.out.println(Arrays.toString(parent));
+//        System.out.println(Arrays.toString(party));
+//        System.out.println(list);
+//        System.out.println(Arrays.toString(parent));
         System.out.println(cnt);
     }
 
@@ -101,6 +98,9 @@ public class B1043_거짓말 {
     static void union(int a, int b) {
         a = find(a);
         b = find(b);
-        if(a != b) parent[b] = a;
+        if (a != b) {
+            if (a > b) parent[a] = b;
+            else parent[b] = a;
+        }
     }
 }
