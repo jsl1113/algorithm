@@ -79,9 +79,9 @@ public class B1043_거짓말 {
             if(flag) cnt++;
         }
 
-        System.out.println(Arrays.toString(party));
-        System.out.println(list);
-        System.out.println(Arrays.toString(parent));
+        // System.out.println(Arrays.toString(party));
+        // System.out.println(list);
+        // System.out.println(Arrays.toString(parent));
         System.out.println(cnt);
     }
 
