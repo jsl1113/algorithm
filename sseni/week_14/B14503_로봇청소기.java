@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 // 후진 : D-2, 전진: D+1
 public class B14503_로봇청소기 {
-    static int n, m, d, r, c, answer = 0;
+    static int n, m, d, r, c, answer = 1;
     static int[][] arr;
     static int[] dr = {-1, 0, 1, 0};
     static int[] dc = {0, 1, 0, -1};
@@ -15,6 +15,7 @@ public class B14503_로봇청소기 {
     public static void main(String[] args) throws IOException {
         init();
         clean();
+//        dfs(r, c, d);
         System.out.println(answer);
     }
 
@@ -25,12 +26,7 @@ public class B14503_로봇청소기 {
 
         int flag = 0;
         while (true) {
-            if(arr[nowR][nowC] == 0){
-                arr[nowR][nowC] = 2;  // 청소 완료
-                answer++;
-            }
-
-            int D = nowD - 1 < 0 ? nowD + 3 : nowD - 1;
+            int D = (nowD + 3) % 4;
             int R = nowR + dr[D];
             int C = nowC + dc[D];
 
@@ -38,7 +34,7 @@ public class B14503_로봇청소기 {
                 arr[R][C] = 2;
                 nowR = R;
                 nowC = C;
-                nowD  = D;
+                nowD = D;
                 flag = 0;
                 answer++;
             } else {
@@ -47,7 +43,7 @@ public class B14503_로봇청소기 {
             }
 
             if (flag == 4) {  // 네 방향 모두 청소되어 있거나 벽일 때
-                int backD = nowD - 2 < 0 ? nowD + 2 : nowD - 2;
+                int backD = (nowD + 2) % 4;
                 int backR = nowR + dr[backD];
                 int backC = nowC + dc[backD];
 
@@ -58,6 +54,28 @@ public class B14503_로봇청소기 {
                     flag = 0;
                 }
             }
+        }
+    }
+
+    static void dfs(int r, int c, int d) {
+        arr[r][c] = 2;
+
+        for (int i = 0; i < 4; i++) {
+            d = (d + 3) % 4;
+            int nr = r + dr[d];
+            int nc = c + dc[d];
+            if (nr >= 0 && nr < n && nc >= 0 && nc < m && arr[nr][nc] == 0) {
+                answer++;
+                dfs(nr, nc, d);
+                return;
+            }
+        }
+
+        int back = (d + 2) % 4;
+        int br = r + dr[back];
+        int bc = c + dc[back];
+        if (br >= 0 && br < n && bc >= 0 && bc < m && arr[br][bc] != 1) {
+            dfs(br, bc, d);
         }
     }
 
