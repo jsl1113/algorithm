@@ -22,11 +22,15 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: | 
-| Week 15 (23.11.16) | [B14247 나무 자르기](https://www.acmicpc.net/problem/14247) |   |   |   |
+| Week 15 (23.11.22) | [B14247 나무](https://www.acmicpc.net/problem/14247) |   |   |   |
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
-|  |[B2138 전구와 스위치](https://www.acmicpc.net/problem/2138) |   |   |    |
-|  |[B20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) |    |   |    |
-| Week 14 (23.11.12) | [B14503 로봇 청소기](https://www.acmicpc.net/problem/14503) |   |  ✅ |   |
+|  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
+|  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
+| Week 15 (23.11.16) | [B16937 두 스티커](https://www.acmicpc.net/problem/16937) |   |   |   |
+|  |[B2468 안전 영역](https://www.acmicpc.net/problem/2468) |   |   |    |
+|  |[B14719 빗물](https://www.acmicpc.net/problem/14719) |   |   |    |
+|  |[B17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) |    |   |    |
+| Week 14 (23.11.12) | [B14503 로봇 청소기](https://www.acmicpc.net/problem/14503) | ☑️  |  ✅ |   |
 |  |[B1043 거짓말](https://www.acmicpc.net/problem/1043) |☑️ | ✅  |    |
 |  |[B14502 연구소](https://www.acmicpc.net/problem/14502) | ✅| ✅  |    |
 |  |[B4195 친구 네트워크](https://www.acmicpc.net/problem/4195) |☑️ |  ☑️ |  23.11.26|
