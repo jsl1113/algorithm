@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
-| Week 15 (23.11.16) | [B16937 두 스티커](https://www.acmicpc.net/problem/16937) |   |   |   |
+| Week 15 (23.11.16) | [B16937 두 스티커](https://www.acmicpc.net/problem/16937) |☑️  |   |   |
 |  |[B2468 안전 영역](https://www.acmicpc.net/problem/2468) | ✅ | ✅  |    |
 |  |[B14719 빗물](https://www.acmicpc.net/problem/14719) | ☑️ |  ✅ |    |
 |  |[B17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | ☑️ | ☑️  |    |
