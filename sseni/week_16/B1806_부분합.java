@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-// 수들의 합이랑 자료형 ? 뺴고는 비슷해서 금방 풀었다.
+// 수들의 합이랑 자료형 ? 빼고는 비슷해서 금방 풀었다.
 public class B1806_부분합 {
     static long n, s, answer = Integer.MAX_VALUE;
     static long[] arr;
