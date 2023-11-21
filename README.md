@@ -26,11 +26,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
-| Week 16 (23.11.26) | [B2578 빙고](https://www.acmicpc.net/problem/2578) |   |   |   |
+| Week 16 (23.11.22) | [B2578 빙고](https://www.acmicpc.net/problem/2578) |   |   |   |
 |  |[B2003 수들의 합 2](https://www.acmicpc.net/problem/2003) |   |   |    |
 |  |[B16236 아기 상어](https://www.acmicpc.net/problem/16236) |   |   |    |
 |  |[B1806 부분합](https://www.acmicpc.net/problem/1806) |    |   |    |
-| Week 15 (23.11.22) | [B1535 안녕](https://www.acmicpc.net/problem/1535) | ☑️ |  ✅ |   |
+| Week 15 (23.11.19) | [B1535 안녕](https://www.acmicpc.net/problem/1535) | ☑️ |  ✅ |   |
 |  |[B9465 스티커](https://www.acmicpc.net/problem/9465) |✅ | ✅  |    |
 |  |[B2212 센서](https://www.acmicpc.net/problem/2212) | ✅| ✅  |    |
 |  |[B1339 단어 수학](https://www.acmicpc.net/problem/1339) |☑️  |  ✅ |    |
