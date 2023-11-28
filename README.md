@@ -31,9 +31,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1522 문자열 교환](https://www.acmicpc.net/problem/1522) |   |   |    |
 |  |[B10836 여왕벌](https://www.acmicpc.net/problem/10836) |    |   |    |
 | Week 16 (23.11.26) | [B2302 극장 좌석](https://www.acmicpc.net/problem/2302) |   | ✅  |   |
-|  |[B1063 킹](https://www.acmicpc.net/problem/1063) |   | ✅   |    |
-|  |[B17404 RGB거리 2](https://www.acmicpc.net/problem/17404) |   | ✅   |    |
-|  |[B2252 줄 세우기](https://www.acmicpc.net/problem/2252) |    | ✅   |    |
+|  |[B1063 킹](https://www.acmicpc.net/problem/1063) | ✅ | ✅   |    |
+|  |[B17404 RGB거리 2](https://www.acmicpc.net/problem/17404) | ✅ | ✅   |    |
+|  |[B2252 줄 세우기](https://www.acmicpc.net/problem/2252) | ☑️ | ✅   |    |
 | Week 16 (23.11.22) | [B2578 빙고](https://www.acmicpc.net/problem/2578) |  ✅ |  ✅ |   |
 |  |[B2003 수들의 합 2](https://www.acmicpc.net/problem/2003) |✅ |  ✅ |    |
 |  |[B1806 부분합](https://www.acmicpc.net/problem/1806) | ✅ | ✅  |    |
