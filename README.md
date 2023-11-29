@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
 | Week 17 (23.11.30) | [B2531 회전 초밥](https://www.acmicpc.net/problem/2531) |   |   |   |
-|  |[B1331 나이트 투어](https://www.acmicpc.net/problem/1331	) |   |   |    |
-|  |[B1522 문자열 교환](https://www.acmicpc.net/problem/1522) |   |   |    |
-|  |[B10836 여왕벌](https://www.acmicpc.net/problem/10836) |    |   |    |
+|  |[B1331 나이트 투어](https://www.acmicpc.net/problem/1331	) |   | ☑️  |    |
+|  |[B1522 문자열 교환](https://www.acmicpc.net/problem/1522) |   | ✅  |    |
+|  |[B10836 여왕벌](https://www.acmicpc.net/problem/10836) |    | ✅  |    |
 | Week 16 (23.11.26) | [B2302 극장 좌석](https://www.acmicpc.net/problem/2302) |   | ✅  |   |
 |  |[B1063 킹](https://www.acmicpc.net/problem/1063) | ✅ | ✅   |    |
 |  |[B17404 RGB거리 2](https://www.acmicpc.net/problem/17404) | ✅ | ✅   |    |
