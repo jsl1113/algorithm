@@ -21,10 +21,15 @@ https://www.acmicpc.net/group/workbook/18638
 
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
-| :---: | :---: | :---: | :---: | :---: | 
-| Week 17 (23.12.03) | [B14247 나무](https://www.acmicpc.net/problem/14247) |   |   |   |
+| :---: | :---: | :---: | :---: | :---: |
+| Week 18 (23.12.03) | [B14247 나무](https://www.acmicpc.net/problem/14247) |   |   |   |
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
+|  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
+| Week 17 (23.12.03) | [B2512 예산](https://www.acmicpc.net/problem/2512) |   |   |   |
+|  |[B1890 점프](https://www.acmicpc.net/problem/1890) |   |   |    |
+|  |[B14499 주사위 굴리기](https://www.acmicpc.net/problem/14499) |   |   |    |
+|  |[B20437 가격]([https://www.acmicpc.net/problem/20437](https://school.programmers.co.kr/learn/courses/30/lessons/131115)) |    |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
 | Week 17 (23.11.30) | [B2531 회전 초밥](https://www.acmicpc.net/problem/2531) |   |   |   |
 |  |[B1331 나이트 투어](https://www.acmicpc.net/problem/1331	) |✅ | ☑️  |    |
