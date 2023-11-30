@@ -29,8 +29,8 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 17 (23.12.03) | [B2512 예산](https://www.acmicpc.net/problem/2512) |   |   |   |
 |  |[B1890 점프](https://www.acmicpc.net/problem/1890) |   |   |    |
 |  |[B14499 주사위 굴리기](https://www.acmicpc.net/problem/14499) |   |   |    |
-|  |[P131115 가격이]((https://school.programmers.co.kr/learn/courses/30/lessons/131115)) |    |   |    |
-|  |[P133026 성분으로]((https://school.programmers.co.kr/learn/courses/30/lessons/133026)) |    |   |    |
+|  |[P131115 가격이](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |    |   |    |
+|  |[P133026 성분으로](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |    |   |    |
 | Week 17 (23.11.30) | [B2531 회전 초밥](https://www.acmicpc.net/problem/2531) |   |   |   |
 |  |[B1331 나이트 투어](https://www.acmicpc.net/problem/1331	) |✅ | ☑️  |    |
 |  |[B1522 문자열 교환](https://www.acmicpc.net/problem/1522) |☑️ | ✅  |    |
