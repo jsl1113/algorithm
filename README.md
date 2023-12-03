@@ -26,9 +26,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
-| Week 18 (23.12.07) | [B2011 암호코드](https://www.acmicpc.net/problem/2011) |   |   |   |
+| Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |   |   |   |
 |  |[B1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) |   |   |    |
-|  |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |   |   |    |
+|  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) |   |   |    |
 |  |[P133026 즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | |   |    |
 |  |[P133026 카테고리](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |   |   |    |
 | Week 17 (23.12.03) | [B2512 예산](https://www.acmicpc.net/problem/2512) |   |   |   |
