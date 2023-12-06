@@ -29,13 +29,13 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |   |   |   |
 |  |[B1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) |   | ✅  |    |
 |  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) |   |  ☑️ |    |
-|  |[P133026 즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |  |  ✅ |    |
-|  |[P133026 카테고리](https://school.programmers.co.kr/learn/courses/30/lessons/133026) |   | ✅  |    |
+|  |[P131123 즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) |  |  ✅ |    |
+|  |[P144855 카테고리](https://school.programmers.co.kr/learn/courses/30/lessons/144855) |   | ✅  |    |
 | Week 17 (23.12.03) | [B2512 예산](https://www.acmicpc.net/problem/2512) |   | ✅  |   |
 |  |[B1890 점프](https://www.acmicpc.net/problem/1890) |✅| ✅  |    |
 |  |[B14499 주사위 굴리기](https://www.acmicpc.net/problem/14499) | ☑️ | ☑️  |    |
-|  |[P131123 가격이](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | ☑️ | ☑️  |    |
-|  |[P59040 성분으로](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | ☑️ |  ✅ |    |
+|  |[P131115 가격이](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | ☑️ | ☑️  |    |
+|  |[P133026 성분으로](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | ☑️ |  ✅ |    |
 | Week 17 (23.11.30) | [B2531 회전 초밥](https://www.acmicpc.net/problem/2531) | ✅   | ✅  |   |
 |  |[B1331 나이트 투어](https://www.acmicpc.net/problem/1331	) |✅ | ☑️  |    |
 |  |[B1522 문자열 교환](https://www.acmicpc.net/problem/1522) |☑️ | ✅  |    |
