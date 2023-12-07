@@ -31,7 +31,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |   |   |    |
 |  |[P151137 자동차종류 별 특정옵션이 포함된](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |    |   |    |
 |  |[P157341 대여기록이 존재하는](https://school.programmers.co.kr/learn/courses/30/lessons/157341) |    |   |    |
-| Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |✅ |   |   |
+| Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |✅ | ✅  |   |
 |  |[B1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) | ✅  | ✅  |    |
 |  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) | ☑️ |  ☑️ |    |
 |  |[P131123 즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | ☑️ |  ✅ |    |
