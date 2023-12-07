@@ -22,10 +22,15 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 18 (23.12.10) | [B14247 나무](https://www.acmicpc.net/problem/14247) |   |   |   |
+| Week 19 (23.12.10) | [B14247 나무](https://www.acmicpc.net/problem/14247) |   |   |   |
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
+| Week 18 (23.12.10) | [P43164 나무](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |   |   |   |
+|  |[B3005 크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |   |   |    |
+|  |[B14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |   |   |    |
+|  |[P151137 자동차 종류 별 특정 옵션이 포함된] (https://school.programmers.co.kr/learn/courses/30/lessons/151137) |    |   |    |
+|  |[P157341 대여기록이 존재하는 자동차 리스트] (https://school.programmers.co.kr/learn/courses/30/lessons/157341) |    |   |    |
 | Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |   |   |   |
 |  |[B1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) | ✅  | ✅  |    |
 |  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) | ☑️ |  ☑️ |    |
