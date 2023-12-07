@@ -26,7 +26,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
 |  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
 |  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
-| Week 18 (23.12.10) | [P43164 나무](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |   |   |   |
+| Week 18 (23.12.10) | [P43164 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |   |   |   |
 |  |[B3005 크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |   |   |    |
 |  |[B14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |   |   |    |
 |  |[P151137 자동차종류 별 특정옵션이 포함된](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |    |   |    |
