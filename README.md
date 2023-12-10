@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 18 (23.12.10) | [P43164 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |   |  ✅ |   |
+| Week 18 (23.12.10) | [P43164 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |✅ |  ✅ |   |
 |  |[B3005 크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |  ✅ | ✅   |    |
 |  |[B14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |  ✅ |  ✅  |    |
 |  |[P151137 자동차종류 별 특정옵션이 포함된](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |  ✅ |  ✅  |    |
