@@ -39,7 +39,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P157341 대여기록이 존재하는](https://school.programmers.co.kr/learn/courses/30/lessons/157341) |   ✅ |  ✅  |    |
 | Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |✅ | ✅  |   |
 |  |[B1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) | ✅  | ✅  |    |
-|  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) | ☑️ |  ☑️ |    |
+|  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) | ☑️ |  ☑️ | 23.12.21 |
 |  |[P131123 즐겨찾기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | ☑️ |  ✅ |    |
 |  |[P144855 카테고리](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | ✅  | ✅  |    |
 | Week 17 (23.12.03) | [B2512 예산](https://www.acmicpc.net/problem/2512) |✅ | ✅  |   |
