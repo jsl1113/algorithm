@@ -22,15 +22,21 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 19 (23.12.10) | [B14247 나무](https://www.acmicpc.net/problem/14247) |   |   |   |
-|  |[B19583 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |   |    |
-|  |[B2138 전구와](https://www.acmicpc.net/problem/2138) |   |   |    |
-|  |[B20437 문자열](https://www.acmicpc.net/problem/20437) |    |   |    |
+| Week 19 (23.12.10) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+|  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) |   |   |    |
+|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
+|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 19 (23.12.14) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+|  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) |   |   |    |
+|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
+|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
 | Week 18 (23.12.10) | [P43164 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |   |   |   |
-|  |[B3005 크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |   | ✅   |    |
-|  |[B14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |   |  ✅  |    |
-|  |[P151137 자동차종류 별 특정옵션이 포함된](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |    |  ✅  |    |
-|  |[P157341 대여기록이 존재하는](https://school.programmers.co.kr/learn/courses/30/lessons/157341) |    |  ✅  |    |
+|  |[B3005 크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |  ✅ | ✅   |    |
+|  |[B14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |  ✅ |  ✅  |    |
+|  |[P151137 자동차종류 별 특정옵션이 포함된](https://school.programmers.co.kr/learn/courses/30/lessons/151137) |  ✅ |  ✅  |    |
+|  |[P157341 대여기록이 존재하는](https://school.programmers.co.kr/learn/courses/30/lessons/157341) |   ✅ |  ✅  |    |
 | Week 18 (23.12.07) |[P242259 석유시추](https://school.programmers.co.kr/learn/courses/19344/lessons/242259) |✅ | ✅  |   |
 |  |[B1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) | ✅  | ✅  |    |
 |  | [B2011 암호코드](https://www.acmicpc.net/problem/2011) | ☑️ |  ☑️ |    |
