@@ -22,11 +22,16 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 19 (23.12.10) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 20 (23.12.24) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 19 (23.12.17) | [P87946 피로도] (https://school.programmers.co.kr/learn/courses/30/lessons/87946) |   |   |   |
+|  |[B1436 영화감독숌](https://www.acmicpc.net/problem/1436) |   |   |    |
+|  |[P42895 N으로표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |   |   |    |
+|  |[P133027 주문량이 많은 아이스크림들](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |    |   |    |
+|  |[P131113 조건별로 분류하여 주문상태](https://school.programmers.co.kr/learn/courses/30/lessons/131113) |    |   |    |
 | Week 19 (23.12.14) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
