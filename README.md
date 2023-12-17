@@ -35,7 +35,7 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 19 (23.12.14) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) | ☑️ |  ✅ |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |✅ | ✅  |    |
-|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |  ✅ |    |
+|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | ✅ |  ✅ |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |  ✅| ☑️  |    |
 | Week 18 (23.12.10) | [P43164 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |✅ |  ✅ |   |
 |  |[B3005 크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |  ✅ | ✅   |    |
