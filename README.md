@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 20 (23.12.31) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
-|  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) |   |   |    |
-|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+| Week 20 (23.12.31) | [P42885 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |   |   |   |
+|  |[B11054 가장긴바이토닉부분수열](https://www.acmicpc.net/problem/11054) |   |   |    |
+|  |[B3190 뱀](https://www.acmicpc.net/problem/3190) |   |   |    |
 |  |[P144854 조건에맞는도서와](https://school.programmers.co.kr/learn/courses/30/lessons/144854) |    |   |    |
 |  |[P131532 년,월,성별별상품구매](https://school.programmers.co.kr/learn/courses/30/lessons/131532) |    |   |    |
 | Week 20 (23.12.28) |[B11048 이동하기](https://www.acmicpc.net/problem/11048)  |   |   |    |
