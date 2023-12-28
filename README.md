@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B3190 뱀](https://www.acmicpc.net/problem/3190) |   |   |    |
 |  |[P144854 조건에맞는도서와](https://school.programmers.co.kr/learn/courses/30/lessons/144854) |    |   |    |
 |  |[P131532 년,월,성별별상품구매](https://school.programmers.co.kr/learn/courses/30/lessons/131532) |    |   |    |
-| Week 20 (23.12.28) |[B11048 이동하기](https://www.acmicpc.net/problem/11048)  |   | ✅  |    |
+| Week 20 (23.12.28) |[B11048 이동하기](https://www.acmicpc.net/problem/11048)  | ✅ | ✅  |    |
 |  |[B2573 빙산](https://www.acmicpc.net/problem/2573) |✅ | ✅  |    |
 |  | [B5014 스타트링크](https://www.acmicpc.net/problem/5014) | ☑️ |  ✅ |   |
 |  |[P151139 대여횟수가많은](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | ☑️ | ☑️  |    |
