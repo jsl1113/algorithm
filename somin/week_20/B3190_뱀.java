@@ -5,8 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.StringTokenizer;
 
 public class B3190_¹ì {
@@ -15,8 +13,7 @@ public class B3190_¹ì {
 	static int n,k,l;
 	static int[][] map;
 	static ArrayList<int []> bam = new ArrayList<int[]>();
-	static Map<Integer, String> rotation = new HashMap<Integer, String>();
-	
+	static int[][] rotation;
 	static int[] dx = {0,1,0,-1};
 	static int[] dy = {1,0,-1,0};
 	
@@ -36,16 +33,21 @@ public class B3190_¹ì {
 			map[a-1][b-1] = 1;
 		}
 		
-		
+	
 		l = Integer.parseInt(br.readLine());
+		rotation = new int[l+1][2];
 		
 		for(int i=0;i<l;i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int sec = Integer.parseInt(st.nextToken());
 			String dir = st.nextToken();
-
-			rotation.put(sec, dir);
-
+			
+			rotation[i][0] = sec;
+			if(dir.equals("D")) {
+				rotation[i][1] = 1;
+			}else {
+				rotation[i][1] = -1;
+			}
 		}
 		
 		bam();
@@ -55,6 +57,7 @@ public class B3190_¹ì {
 	static void bam() {
 		
 		int time=0;
+		int lcnt=0;
 		int rot = 0;
 		int x = 0;
 		int y = 0;
@@ -75,18 +78,17 @@ public class B3190_¹ì {
 			if(map[nx][ny]==1) {
 				map[nx][ny] = 0;
 				bam.add(new int[] {nx,ny});
+				
 			}else if(map[nx][ny]==0) {  //Áö±Ý °£ °÷ÀÌ »ç°ú°¡ ¾ø´Ù (²¿¸® ÁÖ¿ö )
 				bam.add(new int[] {nx,ny});
 				bam.remove(0);
 			}
 			
-			if(rotation.containsKey(time)) {
-				//¸Ó¸® µ¹¸®±â
-				if(rotation.get(time).equals("D")) {
-					rot = head(rot, 1);
-				}else {
-					rot = head(rot, -1);
-				}
+//			System.out.println(time+"½Ã°£ > "+rotation[lcnt][0] +" /"+rotation[lcnt][1]);
+			if(time == rotation[lcnt][0]) {
+				//ÇÔ¼ö ¸Ó¸® µ¹¸®±â
+				rot = head(rot, rotation[lcnt][1]);
+				lcnt++;
 			}
 			
 			x = nx; y = ny;
@@ -106,17 +108,13 @@ public class B3190_¹ì {
 
 		return false;
 	}
-	
 	static int head(int now, int LR) {
 		//0~3
-		int num = 0;
-		if( (now + LR)==-1) {
-			num = 3;
-		}else if( (now+LR) ==4) {
-			num = 0;
-		}else {
-			num = now+LR;
+		int num = (now + LR)%4;
+		if(num<0) {
+			num = (num+4)%4;
 		}
+		
 		return num;
 	}
 
