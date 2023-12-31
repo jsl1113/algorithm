@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B16234 인구 이동](https://www.acmicpc.net/problem/16234) |   |   |    |
 |  |[P131124 그룹별조건에맞는식당목록출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) |    |   |    |
 |  |[P131118 서울에 위치한 식당 목록](https://school.programmers.co.kr/learn/courses/30/lessons/131118) |    |   |    |
-| Week 20 (23.12.31) | [P42885 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |   |  ✅ |   |
+| Week 20 (23.12.31) | [P42885 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | ✅ |  ✅ |   |
 |  |[B11054 가장긴바이토닉부분수열](https://www.acmicpc.net/problem/11054) |☑️ | ✅  |    |
 |  |[B3190 뱀](https://www.acmicpc.net/problem/3190) | ✅ | ✅  |    |
 |  |[P144854 조건에맞는도서와](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | ✅| ✅  |    |
