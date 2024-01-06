@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.StringTokenizer;
 
+// 인구이동 영역의 합계가 원하는대로 나오지 않아서 참고했다ㅠ
 public class B16234_인구이동 {
     static int N, L, R, arr[][];
     static boolean[][] visited;
@@ -31,10 +32,10 @@ public class B16234_인구이동 {
         int answer = 0;
         while (true) {
             visited = new boolean[N][N];
-            for (int i = 0; i < N; i++) {
-                System.out.println(Arrays.toString(arr[i]));
-            }
-            System.out.println();
+            // for (int i = 0; i < N; i++) {
+            //     System.out.println(Arrays.toString(arr[i]));
+            // }
+            // System.out.println();
 
             if (!check()) answer++;
             else break;
@@ -55,8 +56,8 @@ public class B16234_인구이동 {
 
                     if (list.size() > 1) {
                         int avg = sum / list.size();
-                        for (int[] tmp : list) {
-                            arr[tmp[0]][tmp[1]] = avg;
+                        for (int[] point : list) {
+                            arr[point[0]][point[1]] = avg;
                         }
                         flag = false;
                     }
