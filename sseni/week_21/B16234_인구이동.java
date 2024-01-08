@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 // 인구이동 영역의 합계가 원하는대로 나오지 않아서 참고했다ㅠ
+// 아쉽 풀 뻔
 public class B16234_인구이동 {
     static int N, L, R, arr[][];
     static boolean[][] visited;
