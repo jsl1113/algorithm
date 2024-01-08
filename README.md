@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P12927 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |   |   |    |
 |  |[P164668 조건에 맞는 사용자와 총](https://school.programmers.co.kr/learn/courses/30/lessons/164668) |    |   |    |
 |  |[P164672 조건에 부합하는 중고거래](https://school.programmers.co.kr/learn/courses/30/lessons/164672) |    |   |    |
-| Week 21 (24.01.04) | [B1439 뒤집기](https://www.acmicpc.net/problem/1439) |✅|   |   |
+| Week 21 (24.01.04) | [B1439 뒤집기](https://www.acmicpc.net/problem/1439) |✅| ✅  |   |
 |  |[B15900 나무 탈출](https://www.acmicpc.net/problem/15900) | ✅| ✅  |    |
 |  |[B16234 인구 이동](https://www.acmicpc.net/problem/16234) | ✅ | ☑️  |    |
 |  |[P131124 그룹별조건에맞는식당목록출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | ✅ | ✅  |    |
