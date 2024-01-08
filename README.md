@@ -27,6 +27,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 21 (24.01.04) | [B11052 카드 구매하기](https://www.acmicpc.net/problem/11052) |   |   |   |
+|  |[B14500 테트로미노](https://www.acmicpc.net/problem/14500) |   |   |    |
+|  |[P12927 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |   |   |    |
+|  |[P164668 조건에 맞는 사용자와 총](https://school.programmers.co.kr/learn/courses/30/lessons/164668) |    |   |    |
+|  |[P164672 조건에 부합하는 중고거래](https://school.programmers.co.kr/learn/courses/30/lessons/164672) |    |   |    |
 | Week 21 (24.01.04) | [B1439 뒤집기](https://www.acmicpc.net/problem/1439) |   |   |   |
 |  |[B15900 나무 탈출](https://www.acmicpc.net/problem/15900) | ✅| ✅  |    |
 |  |[B16234 인구 이동](https://www.acmicpc.net/problem/16234) | ✅ | ☑️  |    |
