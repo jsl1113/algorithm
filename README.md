@@ -46,16 +46,16 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B11054 가장긴바이토닉부분수열](https://www.acmicpc.net/problem/11054) |☑️ | ✅  |    |
 |  |[B3190 뱀](https://www.acmicpc.net/problem/3190) | ✅ | ✅  |    |
 |  |[P144854 조건에맞는도서와](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | ✅| ✅  |    |
-|  |[P131532 년,월,성별별상품구매](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | ☑️ |  ☑️ |    |
+|  |[P131532 년,월,성별별상품구매](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | ☑️ |  ☑️ | 24.01.14 |
 | Week 20 (23.12.28) |[B11048 이동하기](https://www.acmicpc.net/problem/11048)  | ✅ | ✅  |    |
 |  |[B2573 빙산](https://www.acmicpc.net/problem/2573) |✅ | ✅  |    |
 |  | [B5014 스타트링크](https://www.acmicpc.net/problem/5014) | ☑️ |  ✅ |   |
-|  |[P151139 대여횟수가많은](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | ☑️ | ☑️  |    |
+|  |[P151139 대여횟수가많은](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | ☑️ | ☑️  | 24.01.07 |
 |  |[P131117 5월식품들의총매출](https://school.programmers.co.kr/learn/courses/30/lessons/131117) | ✅ | ✅  |    |
 | Week 19 (23.12.17) | [P87946 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | ☑️ |  ✅ |   |
 |  |[B1436 영화감독숌](https://www.acmicpc.net/problem/1436) | ✅ | ✅  |    |
 |  |[P42895 N으로표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | ☑️ |  ☑️ |    |
-|  |[P133027 주문량이 많은 아이스크림들](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |  ☑️| ☑️  |    |
+|  |[P133027 주문량이 많은 아이스크림들](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |  ☑️| ☑️  | 24.01.07  |
 |  |[P131113 조건별로 분류하여 주문상태](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | ✅ |  ☑️ |    |
 | Week 19 (23.12.14) | [B1309 동물원](https://www.acmicpc.net/problem/1309) | ✅ | ✅  |   |
 |  |[B16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194) | ☑️ |  ✅ |    |
