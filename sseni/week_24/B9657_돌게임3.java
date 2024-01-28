@@ -18,6 +18,7 @@ public class B9657_돌게임3 {
         dp[4] = true;
 
         for (int i = 5; i <= n; i++) {
+            // 세 가지 모두 true라 상근이로 끝났다면, 이번 턴에서는 무조건 창영이가 이긴다
             if (!dp[i - 4] || !dp[i - 3] || !dp[i - 1]) {
                 dp[i] = true;
             }
