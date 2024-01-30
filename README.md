@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1715 카드 정렬하기](https://www.acmicpc.net/problem/1715) |   |   |    |
 |  |[P157339 특정기간동안 대여 가능한 자동차들의](https://school.programmers.co.kr/learn/courses/30/lessons/157339) |    |   |    |
 |  |[P144856 저자 별 카테고리 별 매출액](https://school.programmers.co.kr/learn/courses/30/lessons/144856) |    |   |    |
-| Week 24 (24.01.28) | [B9657 돌 게임 3](https://www.acmicpc.net/problem/9657) |   |   |   |
+| Week 24 (24.01.28) | [B9657 돌 게임 3](https://www.acmicpc.net/problem/9657) | ☑️ |   |   |
 |  |[B13305 주유소](https://www.acmicpc.net/problem/13305) |✅ | ✅  |    |
 |  |[P12913 땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |✅ | ✅  |    |
 |  |[P131116 있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | ✅  |  ✅ |    |
