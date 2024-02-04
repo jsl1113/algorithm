@@ -27,11 +27,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 26 (24.02.11) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
-|  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
-|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
-|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 26 (24.02.11) | [B13335 트럭](https://www.acmicpc.net/problem/13335) |   |   |   |
+|  |[B1300 K번째 수](https://www.acmicpc.net/problem/1300) |   |   |    |
+|  |[B1987 알파벳](https://www.acmicpc.net/problem/1987) |   |   |    |
+|  |[P151141 자동차대여기록 별 대여 금액](https://school.programmers.co.kr/learn/courses/30/lessons/151141) |    |   |    |
+|  |[P157340 자동차 대여기록에서 대여중 대여가능](https://school.programmers.co.kr/learn/courses/30/lessons/157340) |    |   |    |
 | Week 25 (24.02.04) | [B10816 숫자 카드 2](https://www.acmicpc.net/problem/10816) |   |   |   |
 |  |[B1072 게임](https://www.acmicpc.net/problem/1072) | ☑️ | ✅  |    |
 |  |[B1715 카드 정렬하기](https://www.acmicpc.net/problem/1715) | ✅ | ✅  |    |
