@@ -22,7 +22,12 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 26 (24.01.04) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 27 (24.02.04) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+|  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
+|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
+|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 26 (24.02.11) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
