@@ -48,7 +48,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P131116 있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | ✅  |  ✅ |    |
 |  |[P132204 취소되지 않은진료예약하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | ✅| ✅  |    |
 | Week 23 (24.01.21) | [B2792 보석 상자](https://www.acmicpc.net/problem/2792) | ☑️   |  ✅ |   |
-|  |[B16139 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | ☑️ |  ☑️ |    |
+|  |[B16139 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | ☑️ |  ☑️ | 24.02.04 |
 |  |[B9251 LCS](https://www.acmicpc.net/problem/9251) |☑️| ✅  |    |
 |  |[P164670 조건에맞는사용자정보](https://school.programmers.co.kr/learn/courses/30/lessons/164670) |  ✅ |  ✅ |    |
 |  |[P131537 오프라인/온라인판매데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) |✅  | ✅  |    |
