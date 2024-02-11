@@ -22,11 +22,16 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 27 (24.02.04) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 27 (24.02.18) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 27 (24.02.18) | [B1965 상자넣기](https://www.acmicpc.net/problem/1965) |   |   |   |
+|  |[B2343 기타 레슨](https://www.acmicpc.net/problem/2343) |   |   |    |
+|  |[B20444 색종이와 가위](https://www.acmicpc.net/problem/20444) |   |   |    |
+|  |[P59042 없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) |    |   |    |
+|  |[P131529 카테고리별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) |    |   |    |
 | Week 26 (24.02.11) | [B13335 트럭](https://www.acmicpc.net/problem/13335) |   |   |   |
 |  |[B1300 K번째 수](https://www.acmicpc.net/problem/1300) |☑️| ✅  |    |
 |  |[B1987 알파벳](https://www.acmicpc.net/problem/1987) |✅ |  ✅ |    |
