@@ -27,6 +27,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 28 (24.02.25) | [B2668 숫자고르기](https://www.acmicpc.net/problem/2668) |   |   |   |
+|  |[B13023 ABCDE](https://www.acmicpc.net/problem/13023) |   |   |    |
+|  |[B2580 스도쿠](https://www.acmicpc.net/problem/2580) |   |   |    |
+|  |[P157342 자동차평균대여기간구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) |    |   |    |
+|  |[P59411 오랜기간보호한동물](https://school.programmers.co.kr/learn/courses/30/lessons/59411) |    |   |    |
 | Week 27 (24.02.18) | [B1965 상자넣기](https://www.acmicpc.net/problem/1965) |   |   |   |
 |  |[B2343 기타 레슨](https://www.acmicpc.net/problem/2343) | ✅ |  ✅ |    |
 |  |[B20444 색종이와 가위](https://www.acmicpc.net/problem/20444) | ☑️|  ✅ |    |
