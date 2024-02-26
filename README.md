@@ -27,7 +27,12 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 28 (24.02.25) | [B2668 숫자고르기](https://www.acmicpc.net/problem/2668) |   |   |   |
+| Week 29 (24.03.03) | [B11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |   |   |   |
+|  |[B1629 곱셈](https://www.acmicpc.net/problem/1629) |   |   |    |
+|  |[B9663 N-Queen](https://www.acmicpc.net/problem/9663) |   |   |    |
+|  |[P62284 우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284) |    |   |    |
+|  |[P273712 업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712) |    |   |    |
+| Week 28 (24.02.26) | [B2668 숫자고르기](https://www.acmicpc.net/problem/2668) |   |   |   |
 |  |[B13023 ABCDE](https://www.acmicpc.net/problem/13023) | ✅ |  ✅  |    |
 |  |[B2580 스도쿠](https://www.acmicpc.net/problem/2580) |☑️  | ☑️  |    |
 |  |[P157342 자동차평균대여기간구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) |  ✅  |  ✅  |    |
