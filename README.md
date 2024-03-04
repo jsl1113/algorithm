@@ -27,11 +27,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 30 (24.02.18) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
-|  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
-|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
-|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 30 (24.03.10) | [P42578 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |   |   |   |
+|  |[B1711 직각삼각형](https://www.acmicpc.net/problem/1711) |   |   |    |
+|  |[B21315 카드 섞기](https://www.acmicpc.net/problem/21315) |   |   |    |
+|  |[P77487 헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) |    |   |    |
+|  |[P151138 자동차 대여 기록에서](https://school.programmers.co.kr/learn/courses/30/lessons/151138) |    |   |    |
 | Week 29 (24.03.03) | [B11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |   |   |   |
 |  |[B1629 곱셈](https://www.acmicpc.net/problem/1629) |☑️ |   |    |
 |  |[B9663 N-Queen](https://www.acmicpc.net/problem/9663) | ☑️|   |    |
