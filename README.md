@@ -37,7 +37,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B9663 N-Queen](https://www.acmicpc.net/problem/9663) | ☑️| ☑️  |    |
 |  |[P62284 우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284) |✅| ✅  |    |
 |  |[P273712 업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712) | ☑️ |  ✅ |    |
-| Week 28 (24.02.26) | [B2668 숫자고르기](https://www.acmicpc.net/problem/2668) | ☑️ |   |   |
+| Week 28 (24.02.26) | [B2668 숫자고르기](https://www.acmicpc.net/problem/2668) | ☑️ |  ✅ |   |
 |  |[B13023 ABCDE](https://www.acmicpc.net/problem/13023) | ✅ |  ✅  |    |
 |  |[B2580 스도쿠](https://www.acmicpc.net/problem/2580) |☑️  | ☑️  |    |
 |  |[P157342 자동차평균대여기간구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) |  ✅  |  ✅  |    |
