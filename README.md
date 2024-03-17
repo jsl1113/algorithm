@@ -32,12 +32,12 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1699 제곱수의 합](https://www.acmicpc.net/problem/1699) |   |   |    |
 |  |[P131116 연간평가점수에 해당하는 평가등급](https://school.programmers.co.kr/learn/courses/30/lessons/284528) |    |   |    |
 |  |[P164671 오랜기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) |    |   |    |
-| Week 31 (24.03.10) | [B2193 이친수](https://www.acmicpc.net/problem/2193) |   |   |   |
-|  |[B1913 달팽이](https://www.acmicpc.net/problem/1913) | ✅ |   |    |
-|  |[B2607 비슷한 단어](https://www.acmicpc.net/problem/2607) |✅ |   |    |
-|  |[P273710 ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) |  ✅|   |    |
-|  |[P273709 조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) |✅ |   |    |
-| Week 30 (24.03.10) | [P42578 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | ☑️  |   |   |
+| Week 31 (24.03.10) | [B2193 이친수](https://www.acmicpc.net/problem/2193) |   |  ✅ |   |
+|  |[B1913 달팽이](https://www.acmicpc.net/problem/1913) | ✅ |  ✅ |    |
+|  |[B2607 비슷한 단어](https://www.acmicpc.net/problem/2607) |✅ | ✅  |    |
+|  |[P273710 ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) |  ✅| ✅  |    |
+|  |[P273709 조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) |✅ | ✅  |    |
+| Week 30 (24.03.10) | [P42578 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | ☑️  | ✅  |   |
 |  |[B1711 직각삼각형](https://www.acmicpc.net/problem/1711) | ☑️ |  ✅ |    |
 |  |[B21315 카드 섞기](https://www.acmicpc.net/problem/21315) |☑️|  ☑️ |    |
 |  |[P77487 헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | ✅ |  ✅ |    |
