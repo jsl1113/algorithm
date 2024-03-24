@@ -28,11 +28,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
 | Week 32 (24.03.17) | [B16967 배열 복원하기](https://www.acmicpc.net/problem/16967) |   |   |   |
-|  |[B13414 수강신청](https://www.acmicpc.net/problem/13414) |   |   |    |
-|  |[B1699 제곱수의 합](https://www.acmicpc.net/problem/1699) |   |   |    |
-|  |[P131116 연간평가점수에 해당하는 평가등급](https://school.programmers.co.kr/learn/courses/30/lessons/284528) |    |   |    |
-|  |[P164671 오랜기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) |    |   |    |
-| Week 31 (24.03.10) | [B2193 이친수](https://www.acmicpc.net/problem/2193) |   |  ✅ |   |
+|  |[B13414 수강신청](https://www.acmicpc.net/problem/13414) | ✅|   |    |
+|  |[B1699 제곱수의 합](https://www.acmicpc.net/problem/1699) | ☑️|   |    |
+|  |[P131116 연간평가점수에 해당하는 평가등급](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | ✅  |   |    |
+|  |[P164671 오랜기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) |✅   |   |    |
+| Week 31 (24.03.10) | [B2193 이친수](https://www.acmicpc.net/problem/2193) | ✅ |  ✅ |   |
 |  |[B1913 달팽이](https://www.acmicpc.net/problem/1913) | ✅ |  ✅ |    |
 |  |[B2607 비슷한 단어](https://www.acmicpc.net/problem/2607) |✅ | ✅  |    |
 |  |[P273710 ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) |  ✅| ✅  |    |
