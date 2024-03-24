@@ -27,6 +27,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 33 (24.03.24) | [B3273 두 수의 합](https://www.acmicpc.net/problem/3273) |   |   |   |
+|  |[B2504 괄호의 값](https://www.acmicpc.net/problem/2504) |   |   |    |
+|  |[B18405 경쟁적 전염](https://www.acmicpc.net/problem/18405) |   |   |    |
+|  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) |    |   |    |
+|  |[P284530 연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) |    |   |    |
 | Week 32 (24.03.17) | [B16967 배열 복원하기](https://www.acmicpc.net/problem/16967) |   |   |   |
 |  |[B13414 수강신청](https://www.acmicpc.net/problem/13414) | ✅|   |    |
 |  |[B1699 제곱수의 합](https://www.acmicpc.net/problem/1699) | ☑️|   |    |
