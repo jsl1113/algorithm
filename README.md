@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B18405 경쟁적 전염](https://www.acmicpc.net/problem/18405) |   |   |    |
 |  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) |    |   |    |
 |  |[P284530 연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) |    |   |    |
-| Week 32 (24.03.17) | [B16967 배열 복원하기](https://www.acmicpc.net/problem/16967) |   |  ✅ |   |
+| Week 32 (24.03.17) | [B16967 배열 복원하기](https://www.acmicpc.net/problem/16967) |✅ |  ✅ |   |
 |  |[B13414 수강신청](https://www.acmicpc.net/problem/13414) | ✅|  ✅ |    |
 |  |[B1699 제곱수의 합](https://www.acmicpc.net/problem/1699) | ☑️|  ✅ |    |
 |  |[P131116 연간평가점수에 해당하는 평가등급](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | ✅  |  ☑️ |    |
