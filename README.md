@@ -22,11 +22,16 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 33 (24.03.18) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 33 (24.04.07) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 34 (24.04.07) | [B4963 섬의 개수](https://www.acmicpc.net/problem/4963) |   |   |   |
+|  |[B1253 좋다](https://www.acmicpc.net/problem/1253) |   |   |    |
+|  |[B12865 평범한가방](https://www.acmicpc.net/problem/12865) |   |   |    |
+|  |[P276036 언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036) |    |   |    |
+|  |[P298519 특정조건을 만족하는 물고기별수와 최대길이](https://school.programmers.co.kr/learn/courses/30/lessons/298519) |    |   |    |
 | Week 33 (24.03.31) | [B3273 두 수의 합](https://www.acmicpc.net/problem/3273) |   |   |   |
 |  |[B2504 괄호의 값](https://www.acmicpc.net/problem/2504) |   |   |    |
 |  |[B18405 경쟁적 전염](https://www.acmicpc.net/problem/18405) |   |   |    |
