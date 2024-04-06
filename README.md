@@ -31,12 +31,12 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1253 좋다](https://www.acmicpc.net/problem/1253) |   |   |    |
 |  |[B12865 평범한 배낭](https://www.acmicpc.net/problem/12865) |   |   |    |
 |  |[P276036 언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036) |    |   |    |
-|  |[P298519 특정조건을 만족하는 물고기별수와 최대길이](https://school.programmers.co.kr/learn/courses/30/lessons/298519) |    |   |    |
-| Week 33 (24.03.31) | [B3273 두 수의 합](https://www.acmicpc.net/problem/3273) |   |  ✅ |   |
-|  |[B2504 괄호의 값](https://www.acmicpc.net/problem/2504) |   |  ✅ |    |
-|  |[B18405 경쟁적 전염](https://www.acmicpc.net/problem/18405) |   | ☑️  |    |
-|  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) |    |  ✅ |    |
-|  |[P284530 연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) |    | ✅  |    |
+|  |[P298519 특정조건을 만족하는 물고기별수와 최대길이](https://school.programmers.co.kr/learn/courses/30/lessons/298519) |✅ |   |    |
+| Week 33 (24.03.31) | [B3273 두 수의 합](https://www.acmicpc.net/problem/3273) |✅ |  ✅ |   |
+|  |[B2504 괄호의 값](https://www.acmicpc.net/problem/2504) | ✅|  ✅ |    |
+|  |[B18405 경쟁적 전염](https://www.acmicpc.net/problem/18405) |☑️ | ☑️  |    |
+|  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | ✅ |  ✅ |    |
+|  |[P284530 연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) | ✅| ✅  |    |
 | Week 32 (24.03.24) | [B16967 배열 복원하기](https://www.acmicpc.net/problem/16967) |✅ |  ✅ |   |
 |  |[B13414 수강신청](https://www.acmicpc.net/problem/13414) | ✅|  ✅ |    |
 |  |[B1699 제곱수의 합](https://www.acmicpc.net/problem/1699) | ☑️|  ✅ |    |
