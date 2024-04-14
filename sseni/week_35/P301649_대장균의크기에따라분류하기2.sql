@@ -1,4 +1,5 @@
 -- 코드를 작성해주세요
+-- NTILE SQLD 때 알았는데 막상 문제로 보니 떠오르지 않았다 ㅠㅡㅠ
 SELECT
     A.ID,
     CASE
