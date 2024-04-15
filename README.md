@@ -27,16 +27,16 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 36 (24.04.15) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
-|  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
-|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
-|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 36 (24.04.15) | [B14391 종이 조각](https://www.acmicpc.net/problem/14391) |   |   |   |
+|  |[B2559 수열](https://www.acmicpc.net/problem/2559) |   |   |    |
+|  |[B2002 추월](https://www.acmicpc.net/problem/2002) |   |   |    |
+|  |[P299307 대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307) |    |   |    |
+|  |[P276013 Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) |    |   |    |
 | Week 35 (24.04.07) | [B11057 오르막 수](https://www.acmicpc.net/problem/11057) |   |   |   |
 |  |[B3079 입국심사](https://www.acmicpc.net/problem/3079) |☑️ |  ✅  |    |
 |  |[B3107  IPv6](https://www.acmicpc.net/problem/3107) |✅ | ☑️  |    |
 |  |[P284531 노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | ✅|  ✅  |    |
-|  |[P301649 대장균의 크기에](https://school.programmers.co.kr/learn/courses/30/lessons/301649) | ✅ | ☑️  |    |
+|  |[P301649 대장균의 크기에 따라 분류하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/301649) | ✅ | ☑️  |    |
 | Week 34 (24.04.07) | [B4963 섬의 개수](https://www.acmicpc.net/problem/4963) | ✅ | ✅  |   |
 |  |[B1253 좋다](https://www.acmicpc.net/problem/1253) |✅  | ✅  |    |
 |  |[B12865 평범한 배낭](https://www.acmicpc.net/problem/12865) |☑️ | ✅  |    |
