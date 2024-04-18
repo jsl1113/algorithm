@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2002 추월](https://www.acmicpc.net/problem/2002) |   |   |    |
 |  |[P299307 대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307) |    |   |    |
 |  |[P276013 Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) |    |   |    |
-| Week 35 (24.04.15) | [B11057 오르막 수](https://www.acmicpc.net/problem/11057) |   |   |   |
+| Week 35 (24.04.15) | [B11057 오르막 수](https://www.acmicpc.net/problem/11057) | ✅ |   |   |
 |  |[B3079 입국심사](https://www.acmicpc.net/problem/3079) |☑️ |  ✅  |    |
 |  |[B3107  IPv6](https://www.acmicpc.net/problem/3107) |✅ | ☑️  |    |
 |  |[P284531 노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | ✅|  ✅  |    |
