@@ -54,7 +54,6 @@ public class B14391_종이조각 {
                 sum += tmp;
             }
 
-            System.out.println();
             // 세로
             for (int j = 0; j < m; j++) {
                 int tmp = 0;
@@ -73,7 +72,6 @@ public class B14391_종이조각 {
                 sum += tmp;
             }
 
-            System.out.println();
             answer = Math.max(answer, sum);
         }
     }
