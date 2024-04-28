@@ -36,7 +36,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2493 탑](https://www.acmicpc.net/problem/2493) |   | ✅  |    |
 |  |[B2529 부등호](https://www.acmicpc.net/problem/2529) | ✅ | ✅  |    |
 |  |[P293261 물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | ✅  | ✅  |    |
-|  |[P301650  특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650) |    | ✅☑️  |    |
+|  |[P301650  특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650) |    | ☑️  |    |
 | Week 36 (24.04.21) | [B14391 종이 조각](https://www.acmicpc.net/problem/14391) | ✅ | ✅  |   |
 |  |[B2559 수열](https://www.acmicpc.net/problem/2559) | ✅ | ✅  |    |
 |  |[B2002 추월](https://www.acmicpc.net/problem/2002) | ✅ | ✅  |    |
