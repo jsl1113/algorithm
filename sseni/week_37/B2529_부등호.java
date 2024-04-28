@@ -13,7 +13,6 @@ public class B2529_부등호 {
     static int[] numArray;
     static boolean[] visited = new boolean[10];
     static long[] answer;
-    static String min, max;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -33,8 +32,12 @@ public class B2529_부등호 {
 
         dfs(0);
 
-        System.out.println(max);
-        System.out.println(min);
+        String max = Long.toString(answer[1]);
+        System.out.println(max.length() != k + 1 ? "0" + max : max);
+
+        String min = Long.toString(answer[0]);
+        System.out.println(min.length() != k + 1 ? "0" + min : min);
+
     }
 
     static void dfs(int cnt) {
@@ -44,15 +47,8 @@ public class B2529_부등호 {
                 String s = Arrays.stream(numArray).mapToObj(String::valueOf).collect(Collectors.joining());
                 long n = Long.parseLong(s);
 
-                if (answer[0] > n) {
-                    answer[0] = n;
-                    min = s;
-                }
-
-                if (answer[1] < n) {
-                    answer[1] = n;
-                    max = s;
-                }
+                answer[0] = Math.min(answer[0], n);
+                answer[1] = Math.max(answer[1], n);
             }
 
             return;
