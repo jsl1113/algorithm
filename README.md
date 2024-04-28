@@ -22,11 +22,16 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 37 (24.04.28) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 37 (24.05.05) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 38 (24.05.05) | [B2240 자두나무](https://www.acmicpc.net/problem/2240) |   |   |   |
+|  |[B4375 1](https://www.acmicpc.net/problem/4375) |   |   |    |
+|  |[B1918 후위 표기식](https://www.acmicpc.net/problem/1918) |   |   |    |
+|  |[P299305 대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) |    |   |    |
+|  |[P301647 부모의 형질을 모두 가지는 대장균찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) |    |   |    |
 | Week 37 (24.04.28) | [B2229 조 짜기](https://www.acmicpc.net/problem/2229) |   |   |   |
 |  |[B2493 탑](https://www.acmicpc.net/problem/2493) |   |   |    |
 |  |[B2529 부등호](https://www.acmicpc.net/problem/2529) | ✅ |   |    |
