@@ -33,7 +33,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P299305 대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) |    |   |    |
 |  |[P301647 부모의 형질을 모두 가지는 대장균찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) |    |   |    |
 | Week 37 (24.04.28) | [B2229 조 짜기](https://www.acmicpc.net/problem/2229) | ☑️|  ✅ |   |
-|  |[B2493 탑](https://www.acmicpc.net/problem/2493) |   | ✅  |    |
+|  |[B2493 탑](https://www.acmicpc.net/problem/2493) |☑️ | ✅  |    |
 |  |[B2529 부등호](https://www.acmicpc.net/problem/2529) | ✅ | ✅  |    |
 |  |[P293261 물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | ✅  | ✅  |    |
 |  |[P301650  특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650) | ☑️ | ☑️  |    |
