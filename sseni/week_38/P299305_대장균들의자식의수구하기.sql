@@ -1,0 +1,10 @@
+SELECT A.ID,
+       CASE
+           WHEN B.PARENT_ID IS NULL THEN 0
+           ELSE COUNT(*)
+           END AS CHILD_COUNT
+FROM ECOLI_DATA AS A
+         LEFT JOIN ECOLI_DATA AS B
+                   ON A.ID = B.PARENT_ID
+GROUP BY A.ID
+ORDER BY A.ID
