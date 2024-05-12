@@ -32,7 +32,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2473 세 용액](https://www.acmicpc.net/problem/2473) |   |   |    |
 |  |[P131534 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) |    |   |    |
 |  |[P132202 진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |    |   |    |
-| Week 39 (24.05.12) | [B18429 근손실](https://www.acmicpc.net/problem/18429) |   |   |   |
+| Week 39 (24.05.12) | [B18429 근손실](https://www.acmicpc.net/problem/18429) |   | ✅  |   |
 |  |[B5052 전화번호 목록](https://www.acmicpc.net/problem/5052) |   | ✅  |    |
 |  |[B2502 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502) |   | ✅  |    |
 |  |[P293257 물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257) |    | ✅  |    |                
