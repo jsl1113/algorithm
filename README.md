@@ -27,11 +27,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 40 (24.05.19) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
-|  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
-|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-|  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
-|  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 40 (24.05.19) | [B10610 30](https://www.acmicpc.net/problem/10610) |   |   |   |
+|  |[B10971 외판원 순회 2](https://www.acmicpc.net/problem/10971) |   |   |    |
+|  |[B2473 세 용액](https://www.acmicpc.net/problem/2473) |   |   |    |
+|  |[P131534 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) |    |   |    |
+|  |[P132202 진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |    |   |    |
 | Week 39 (24.05.12) | [B18429 근손실](https://www.acmicpc.net/problem/18429) |   |   |   |
 |  |[B5052 전화번호 목록](https://www.acmicpc.net/problem/5052) |   |   |    |
 |  |[B2502 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502) |   |   |    |
