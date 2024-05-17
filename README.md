@@ -37,7 +37,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2502 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502) | ✅  | ✅  |    |
 |  |[P293257 물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257) |  ✅  | ✅  |    |                
 |  |[P131528 나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) |  ☑️  |  ✅ |    |
-| Week 38 (24.05.05) | [B2240 자두나무](https://www.acmicpc.net/problem/2240) |   | ✅  |   |
+| Week 38 (24.05.05) | [B2240 자두나무](https://www.acmicpc.net/problem/2240) | ☑️| ✅  |   |
 |  |[B4375 1](https://www.acmicpc.net/problem/4375) |✅ | ✅  |    |
 |  |[B1918 후위 표기식](https://www.acmicpc.net/problem/1918) |  ☑️| ✅  |    |
 |  |[P299305 대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) | ✅ | ✅  |    |
