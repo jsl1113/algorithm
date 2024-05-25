@@ -32,11 +32,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1743 음식물 피하기](https://www.acmicpc.net/problem/1743) |   |   |    |
 |  |[P164673 조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) |    |   |    |
 |  |[P131530 가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |    |   |    |
-| Week 40 (24.05.19) | [B10610 30](https://www.acmicpc.net/problem/10610) |   |  ✅ |   |
-|  |[B10971 외판원 순회 2](https://www.acmicpc.net/problem/10971) |   |  ✅ |    |
-|  |[B2473 세 용액](https://www.acmicpc.net/problem/2473) |   |  ☑️ |    |
-|  |[P131534 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) |    | ✅  |    |
-|  |[P132202 진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |    |  ✅ |    |
+| Week 40 (24.05.19) | [B10610 30](https://www.acmicpc.net/problem/10610) |✅ |  ✅ |   |
+|  |[B10971 외판원 순회 2](https://www.acmicpc.net/problem/10971) | ✅ |  ✅ |    |
+|  |[B2473 세 용액](https://www.acmicpc.net/problem/2473) |☑️ |  ☑️ |    |
+|  |[P131534 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) |✅  | ✅  |    |
+|  |[P132202 진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) |  ✅ |  ✅ |    |
 | Week 39 (24.05.12) | [B18429 근손실](https://www.acmicpc.net/problem/18429) | ✅ | ✅  |   |
 |  |[B5052 전화번호 목록](https://www.acmicpc.net/problem/5052) |  ☑️  | ✅  |    |
 |  |[B2502 떡 먹는 호랑이](https://www.acmicpc.net/problem/2502) | ✅  | ✅  |    |
