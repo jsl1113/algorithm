@@ -33,10 +33,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P273711 업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) |    |   |    |
 |  |[P301651 멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651) |    |   |    |
 | Week 41 (24.05.26) | [B16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |   |   |   |
-|  |[B1051 숫자 정사각형](https://www.acmicpc.net/problem/1051) |   |   |    |
-|  |[B1743 음식물 피하기](https://www.acmicpc.net/problem/1743) |   |   |    |
-|  |[P164673 조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) |    |   |    |
-|  |[P131530 가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |    |   |    |
+|  |[B1051 숫자 정사각형](https://www.acmicpc.net/problem/1051) |✅|   |    |
+|  |[B1743 음식물 피하기](https://www.acmicpc.net/problem/1743) | ✅ |   |    |
+|  |[P164673 조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) |✅  |   |    |
+|  |[P131530 가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) |✅ |   |    |
 | Week 40 (24.05.19) | [B10610 30](https://www.acmicpc.net/problem/10610) |✅ |  ✅ |   |
 |  |[B10971 외판원 순회 2](https://www.acmicpc.net/problem/10971) | ✅ |  ✅ |    |
 |  |[B2473 세 용액](https://www.acmicpc.net/problem/2473) |☑️ |  ☑️ |    |
