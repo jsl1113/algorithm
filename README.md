@@ -22,16 +22,21 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 42 (24.06.02) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 43 (24.06.09) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 43 (24.06.09) | [B1446 지름길](https://www.acmicpc.net/problem/1446) |   |   |   |
+|  |[B2217 로프](https://www.acmicpc.net/problem/2217) |   |   |    |
+|  |[B1141 접두사](https://www.acmicpc.net/problem/1141) |   |   |    |
+|  |[P284527 조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527) |    |   |    |
+|  |[P276035 FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035) |    |   |    |
 | Week 42 (24.06.02) | [B12904 A와 B](https://www.acmicpc.net/problem/12904) |   |   |   |
-|  |[B1105  팔](https://www.acmicpc.net/problem/1105) |   |   |    |
-|  |[B18427 함께 블록 쌓기](https://www.acmicpc.net/problem/18427) |   |   |    |
+|  |[B1105  팔](https://www.acmicpc.net/problem/1105) | ✅|   |    |
+|  |[B18427 함께 블록 쌓기](https://www.acmicpc.net/problem/18427) |☑️ |   |    |
 |  |[P273711 업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) |    |   |    |
-|  |[P301651 멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651) |    |   |    |
+|  |[P301651 멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651) |☑️ |   |    |
 | Week 41 (24.05.26) | [B16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |☑️ |  ☑️ |   |
 |  |[B1051 숫자 정사각형](https://www.acmicpc.net/problem/1051) |✅| ✅  |    |
 |  |[B1743 음식물 피하기](https://www.acmicpc.net/problem/1743) | ✅ | ✅  |    |
