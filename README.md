@@ -28,10 +28,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
 | Week 43 (24.06.09) | [B7568 덩치](https://www.acmicpc.net/problem/7568) |   |   |   |
-|  |[B1753 최단경로](https://www.acmicpc.net/problem/1753) |   |  ☑️ |    |
-|  |[B2565 전깃줄](https://www.acmicpc.net/problem/2565) |   |  ✅ |    |
-|  |[P276034 조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) |    | ✅  |    |
-|  |[P293260 월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) |    | ✅  |    |
+|  |[B1753 최단경로](https://www.acmicpc.net/problem/1753) |☑️ |  ☑️ |    |
+|  |[B2565 전깃줄](https://www.acmicpc.net/problem/2565) | ✅ |  ✅ |    |
+|  |[P276034 조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) |  ✅ | ✅  |    |
+|  |[P293260 월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) |✅ | ✅  |    |
 | Week 43 (24.06.09) | [B1446 지름길](https://www.acmicpc.net/problem/1446) |☑️ | ✅  |   |
 |  |[B2217 로프](https://www.acmicpc.net/problem/2217) |✅ | ✅  |    |
 |  |[B1141 접두사](https://www.acmicpc.net/problem/1141) |✅ | ✅  |    |
