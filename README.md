@@ -22,12 +22,17 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 43 (24.06.09) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
-|  |[B16194 카드](https://www.acmicpc.net/problem/16194) |   |   |    |
+| Week 45 (24.06.23) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+|  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
-| Week 43 (24.06.09) | [B7568 덩치](https://www.acmicpc.net/problem/7568) |   |   |   |
+| Week 45 (24.06.23) | [B4889 안정적인 문자열](https://www.acmicpc.net/problem/4889) |   |   |    |
+|  |[B2304 창고 다각형](https://www.acmicpc.net/problem/2304) |   |   |    |
+|  |[B3020 개똥벌레](https://www.acmicpc.net/problem/3020) |   |   |    |
+|  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) |    |   |    |
+|  |[P59412 입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |    |   |    |
+| Week 44 (24.06.16) | [B7568 덩치](https://www.acmicpc.net/problem/7568) |   |   |   |
 |  |[B1753 최단경로](https://www.acmicpc.net/problem/1753) |☑️ |  ☑️ |    |
 |  |[B2565 전깃줄](https://www.acmicpc.net/problem/2565) | ✅ |  ✅ |    |
 |  |[P276034 조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) |  ✅ | ✅  |    |
