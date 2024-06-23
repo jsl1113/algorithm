@@ -33,11 +33,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P59046 루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) |    |   |    |
 |  |[P2985181 특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518) |    |   |    |
 | Week 45 (24.06.23) | [B4889 안정적인 문자열](https://www.acmicpc.net/problem/4889) |   |   |    |
-|  |[B2304 창고 다각형](https://www.acmicpc.net/problem/2304) |   | ✅  |    |
-|  |[B3020 개똥벌레](https://www.acmicpc.net/problem/3020) |   | ☑️  |    |
-|  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) |    | ✅  |    |
-|  |[P59412 입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |    |  ✅ |    |
-| Week 44 (24.06.16) | [B7568 덩치](https://www.acmicpc.net/problem/7568) |   |  ✅ |   |
+|  |[B2304 창고 다각형](https://www.acmicpc.net/problem/2304) | ✅ | ✅  |    |
+|  |[B3020 개똥벌레](https://www.acmicpc.net/problem/3020) |☑️  | ☑️  |    |
+|  |[P284529 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) |✅  | ✅  |    |
+|  |[P59412 입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) |✅ |  ✅ |    |
+| Week 44 (24.06.16) | [B7568 덩치](https://www.acmicpc.net/problem/7568) |✅ |  ✅ |   |
 |  |[B1753 최단경로](https://www.acmicpc.net/problem/1753) |☑️ |  ☑️ |    |
 |  |[B2565 전깃줄](https://www.acmicpc.net/problem/2565) | ✅ |  ✅ |    |
 |  |[P276034 조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) |  ✅ | ✅  |    |
