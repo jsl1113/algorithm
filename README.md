@@ -34,7 +34,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[P299308 분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) |    |   |    |
 | Week 46 (24.06.30) | [B2589 보물섬](https://www.acmicpc.net/problem/2589) |   |   |   |
 |  |[B16401 과자 나눠주기](https://www.acmicpc.net/problem/16401) | ✅| ✅  |    |
-|  |[B14426 접두사 찾기](https://www.acmicpc.net/problem/14426) |   | ✅  |    |
+|  |[B14426 접두사 찾기](https://www.acmicpc.net/problem/14426) |☑️ | ✅  |    |
 |  |[P59046 루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) |✅  |  ✅ |    |
 |  |[P2985181 특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518) | ✅ |  ✅ |    |
 | Week 45 (24.06.23) | [B4889 안정적인 문자열](https://www.acmicpc.net/problem/4889) |✅ |   |    |
