@@ -22,17 +22,22 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 48 (24.07.14) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 49 (24.07.21) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
 |  |[P164671 조회수가](https://school.programmers.co.kr/learn/courses/30/lessons/164671) |    |   |    |
+| Week 49 (24.07.21) | [B12891 DNA 비밀번호](https://www.acmicpc.net/problem/12891) |   |   |   |
+|  |[B1520 내리막 길](https://www.acmicpc.net/problem/1520) |   |   |    |
+|  |[B1744 수 묶기](https://www.acmicpc.net/problem/1744) |   |   |    |
+|  |[P301646 특정 형질을 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301646) |    |   |    |
+|  |[P59045 보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) |    |   |    |
 | Week 48 (24.07.14) | [B2023 신기한 소수](https://www.acmicpc.net/problem/2023) |   |   |   |
 |  |[B1662 압축](https://www.acmicpc.net/problem/1662) |   |   |    |
 |  |[B1789 수들의 합](https://www.acmicpc.net/problem/1789) |   |   |    |
 |  |[P59413 입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413) |    |   |    |
 |  |[P298517 가장 큰 물고기 10마리 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298517) |    |   |    |
-| Week 47 (24.07.07) | [B22945 팀 빌딩](https://www.acmicpc.net/problem/22945) |   |   |   |
+| Week 47 (24.07.07) | [B22945 팀 빌딩](https://www.acmicpc.net/problem/22945) | ✅ |   |   |
 |  |[B6443 애너그램](https://www.acmicpc.net/problem/6443) | ✅|  ✅ |    |
 |  |[B18430 무기 공학](https://www.acmicpc.net/problem/18430) | ☑️| ☑️  |    |
 |  |[P299310 연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) |☑️  | ✅  |    |
