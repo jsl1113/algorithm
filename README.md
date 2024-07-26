@@ -27,7 +27,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[P293259 잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) |    |   |    |
 |  |[P59040 고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |    |   |    |
-| Week 50 (24.07.28) | [B1926 그림](https://www.acmicpc.net/problem/1926) |   |   |   |
+| Week 50 (24.08.03) | [B1926 그림](https://www.acmicpc.net/problem/1926) |   |   |   |
 |  |[B1092 배](https://www.acmicpc.net/problem/1092) |   |   |    |
 |  |[B1697 숨바꼭질](https://www.acmicpc.net/problem/1697) |   |   |    |
 |  |[P131116 식품분류별](https://school.programmers.co.kr/learn/courses/30/lessons/131116) |    |   |    |
