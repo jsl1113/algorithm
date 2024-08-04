@@ -30,12 +30,12 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549) |   |   |    |
 |  |[B2294 동전 2](https://www.acmicpc.net/problem/2294) |   |   |    |
 |  |[B1946 신입 사원](https://www.acmicpc.net/problem/1946) |   |   |    |
-| Week 50 (24.08.04) | [B1926 그림](https://www.acmicpc.net/problem/1926) |   |   |   |
-|  |[B1092 배](https://www.acmicpc.net/problem/1092) |✅ |   |    |
-|  |[B1697 숨바꼭질](https://www.acmicpc.net/problem/1697) | ✅ |   |    |
-|  |[P293259 잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | ✅  |   |    |
-|  |[P59040 고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |✅  |   |    |
-| Week 49 (24.07.21) | [B12891 DNA 비밀번호](https://www.acmicpc.net/problem/12891) | ✅ |   |   |
+| Week 50 (24.08.04) | [B1926 그림](https://www.acmicpc.net/problem/1926) |   | ✅  |   |
+|  |[B1092 배](https://www.acmicpc.net/problem/1092) |✅ |✅   |    |
+|  |[B1697 숨바꼭질](https://www.acmicpc.net/problem/1697) | ✅ |  ✅ |    |
+|  |[P293259 잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | ✅  |  ✅ |    |
+|  |[P59040 고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) |✅  |✅   |    |
+| Week 49 (24.07.21) | [B12891 DNA 비밀번호](https://www.acmicpc.net/problem/12891) | ✅ | ✅  |   |
 |  |[B1520 내리막 길](https://www.acmicpc.net/problem/1520) | ☑️|  ☑️ |    |
 |  |[B1744 수 묶기](https://www.acmicpc.net/problem/1744) | ✅| ✅  |    |
 |  |[P301646 특정 형질을 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301646) | ✅ |    ✅|    |
