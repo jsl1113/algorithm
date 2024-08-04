@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549) |   |   |    |
 |  |[B2294 동전 2](https://www.acmicpc.net/problem/2294) |   |   |    |
 |  |[B1946 신입 사원](https://www.acmicpc.net/problem/1946) |   |   |    |
-| Week 50 (24.08.04) | [B1926 그림](https://www.acmicpc.net/problem/1926) |   | ✅  |   |
+| Week 50 (24.08.04) | [B1926 그림](https://www.acmicpc.net/problem/1926) | ✅ | ✅  |   |
 |  |[B1092 배](https://www.acmicpc.net/problem/1092) |✅ |✅   |    |
 |  |[B1697 숨바꼭질](https://www.acmicpc.net/problem/1697) | ✅ |  ✅ |    |
 |  |[P293259 잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | ✅  |  ✅ |    |
