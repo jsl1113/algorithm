@@ -26,6 +26,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+|  Week 52 (24.08.17)  |[B1922 네트워크 연결](https://www.acmicpc.net/problem/1922) |   |   |    |
+|  | [B2776 암기왕](https://www.acmicpc.net/problem/2776) |   |   |   |
+|  |[B20548 칠리소스](https://www.acmicpc.net/problem/20548) |   |   |    |
+|  |[B18870 좌표 압축](https://www.acmicpc.net/problem/18870) |   |   |    |
 | Week 51 (24.08.11) | [B1969 DNA](https://www.acmicpc.net/problem/1969) |   | ✅  |   |
 |  |[B13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549) |   |  ✅ |    |
 |  |[B2294 동전 2](https://www.acmicpc.net/problem/2294) |   |  ✅ |    |
