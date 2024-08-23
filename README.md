@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2143 두 배열의 합](https://www.acmicpc.net/problem/2143) |   |   |    |
 |  |[B30804 과일 탕후루](https://www.acmicpc.net/problem/30804) |   |   |    |
 |  |[B14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) |   |   |    |
-|  Week 52 (24.08.18)  |[B1922 네트워크 연결](https://www.acmicpc.net/problem/1922) |   |   |    |
+|  Week 52 (24.08.18)  |[B1922 네트워크 연결](https://www.acmicpc.net/problem/1922) |✅  |   |    |
 |  | [B2776 암기왕](https://www.acmicpc.net/problem/2776) |✅ |   |   |
 |  |[B20548 칠리소스](https://www.acmicpc.net/problem/20548) |☑️  |   |    |
 |  |[B18870 좌표 압축](https://www.acmicpc.net/problem/18870) | ✅ |   |    |
