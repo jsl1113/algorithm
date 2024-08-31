@@ -27,13 +27,13 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 | Week 54 (24.09.01) | [B6603 로또](https://www.acmicpc.net/problem/6603) |   |   |   |
-|  |[B20364 부동산 다툼](https://www.acmicpc.net/problem/20364) |   |   |    |
-|  |[B1759 암호 만들기](https://www.acmicpc.net/problem/1759) |   |   |    |
-|  |[B1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) |   |   |    |
-| Week 53 (24.08.25) | [B9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020) |   |   |   |
-|  |[B2143 두 배열의 합](https://www.acmicpc.net/problem/2143) |   | ☑️  |    |
-|  |[B30804 과일 탕후루](https://www.acmicpc.net/problem/30804) |   |  ✅ |    |
-|  |[B14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) |   | ✅  |    |
+|  |[B20364 부동산 다툼](https://www.acmicpc.net/problem/20364) | ✅ |   |    |
+|  |[B1759 암호 만들기](https://www.acmicpc.net/problem/1759) | ✅ |   |    |
+|  |[B1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | ✅ |   |    |
+| Week 53 (24.08.25) | [B9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020) | ✅  |   |   |
+|  |[B2143 두 배열의 합](https://www.acmicpc.net/problem/2143) | ☑️ | ☑️  |    |
+|  |[B30804 과일 탕후루](https://www.acmicpc.net/problem/30804) |  ☑️ |  ✅ |    |
+|  |[B14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | ✅ | ✅  |    |
 |  Week 52 (24.08.18)  |[B1922 네트워크 연결](https://www.acmicpc.net/problem/1922) |✅  | ✅  |    |
 |  | [B2776 암기왕](https://www.acmicpc.net/problem/2776) |✅ |  ✅ |   |
 |  |[B20548 칠리소스](https://www.acmicpc.net/problem/20548) |☑️  |  ☑️ |    |
