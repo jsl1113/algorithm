@@ -22,7 +22,11 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 55 (24.09.08) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 56 (24.09.15) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+|  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
+|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+|  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
+| Week 56 (24.09.15) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
