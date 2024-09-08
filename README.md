@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1062 가르침](https://www.acmicpc.net/problem/1062) |   |   |    |
 |  |[B1038 감소하는 수](https://www.acmicpc.net/problem/1038) |   |   |    |
 |  |[B1049 기타줄](https://www.acmicpc.net/problem/1049) |   |   |    |
-| Week 55 (24.09.08) | [B1240 노드사이의 거리](https://www.acmicpc.net/problem/1240) |✅ |   |   |
+| Week 55 (24.09.08) | [B1240 노드사이의 거리](https://www.acmicpc.net/problem/1240) |✅ | ✅  |   |
 |  |[B13398 연속합 2](https://www.acmicpc.net/problem/13398) |☑️ | ✅  |    |
 |  |[B1010 다리 놓기](https://www.acmicpc.net/problem/1010) |✅ |  ✅ |    |
 |  |[B1461 도서관](https://www.acmicpc.net/problem/1461) | ✅ |  ☑️ |    |
