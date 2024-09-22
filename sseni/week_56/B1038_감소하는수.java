@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class B1038_감소하는수 {
-    static ArrayList<Integer> list;
+    static ArrayList<Long> list;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -26,17 +26,14 @@ public class B1038_감소하는수 {
         }
     }
 
-    static void dfs(int num, int cnt) {
-        if(cnt > 10) return;
+    static void dfs(long num, int cnt) {
+        if (cnt > 10) return;
 
         list.add(num);
 
-        for (int i = 0; i < 10; i++) {
-            if (num % 10 > i) {
-                dfs((num * 10) + i, cnt + 1);
-            }
+        for (int i = 0; i < num % 10; i++) {
+            dfs((num * 10) + i, cnt + 1);
         }
 
-        return;
     }
 }
