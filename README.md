@@ -26,7 +26,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-| Week 57 (24.09.29) | [B2630 색종이 만들기](https://www.acmicpc.net/problem/2630) |   |   |   |
+| Week 57 (24.10.06) | [B2630 색종이 만들기](https://www.acmicpc.net/problem/2630) |   |   |   |
 |  |[B13702 이상한 술집](https://www.acmicpc.net/problem/13702) |   |   |    |
 |  |[B2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |   |   |    |
 |  |[B2239 스도쿠](https://www.acmicpc.net/problem/2239) |   |   |    |
