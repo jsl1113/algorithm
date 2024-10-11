@@ -30,10 +30,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |   |   |    |
 |  |[B2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) |   |   |    |
 |  |[B15663 N과 M (9)](https://www.acmicpc.net/problem/15663) |   |   |    |
-| Week 57 (24.10.06) | [B2630 색종이 만들기](https://www.acmicpc.net/problem/2630) |   |   |   |
-|  |[B13702 이상한 술집](https://www.acmicpc.net/problem/13702) |   |   |    |
-|  |[B2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |   |   |    |
-|  |[B2239 스도쿠](https://www.acmicpc.net/problem/2239) |   |   |    |
+| Week 57 (24.10.06) | [B2630 색종이 만들기](https://www.acmicpc.net/problem/2630) | ✅ |   |   |
+|  |[B13702 이상한 술집](https://www.acmicpc.net/problem/13702) |✅ |   |    |
+|  |[B2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | ✅ |   |    |
+|  |[B2239 스도쿠](https://www.acmicpc.net/problem/2239) | ☑️ |   |    |
 | Week 56 (24.09.22) | [B10974 모든 순열](https://www.acmicpc.net/problem/10974) |✅| ✅  |   |
 |  |[B1062 가르침](https://www.acmicpc.net/problem/1062) |☑️ | ☑️  |    |
 |  |[B1038 감소하는 수](https://www.acmicpc.net/problem/1038) | ☑️| ✅  |    |
