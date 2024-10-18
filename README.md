@@ -30,10 +30,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B17266 어두운 굴다리](https://www.acmicpc.net/problem/17266) |   |   |    |
 |  |[B10655 마라톤 1](https://www.acmicpc.net/problem/10655) |   |   |    |
 |  |[B15666 N과 M (12)](https://www.acmicpc.net/problem/15666) |   |   |    |
-| Week 58 (24.10.13) | [B20055 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |   |   |   |
-|  |[B16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |   |  ✅ |    |
-|  |[B2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) |   | ✅  |    |
-|  |[B15663 N과 M (9)](https://www.acmicpc.net/problem/15663) |   | ✅  |    |
+| Week 58 (24.10.13) | [B20055 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |✅ |   |   |
+|  |[B16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | ☑️ |  ✅ |    |
+|  |[B2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) | ✅| ✅  |    |
+|  |[B15663 N과 M (9)](https://www.acmicpc.net/problem/15663) |✅ | ✅  |    |
 | Week 57 (24.10.06) | [B2630 색종이 만들기](https://www.acmicpc.net/problem/2630) | ✅ |  ✅ |   |
 |  |[B13702 이상한 술집](https://www.acmicpc.net/problem/13702) |✅ |  ✅ |    |
 |  |[B2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | ✅ | ✅  |    |
