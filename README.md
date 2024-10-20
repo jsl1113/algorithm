@@ -26,11 +26,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-| Week 59 (24.10.20) | [B15989 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |   |   |   |
-|  |[B17266 어두운 굴다리](https://www.acmicpc.net/problem/17266) |   |   |    |
-|  |[B10655 마라톤 1](https://www.acmicpc.net/problem/10655) |   |   |    |
-|  |[B15666 N과 M (12)](https://www.acmicpc.net/problem/15666) |   |   |    |
-| Week 58 (24.10.13) | [B20055 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |✅ |   |   |
+| Week 59 (24.10.20) | [B15989 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |   |   ✅ |   |
+|  |[B17266 어두운 굴다리](https://www.acmicpc.net/problem/17266) |   |   ✅ |    |
+|  |[B10655 마라톤 1](https://www.acmicpc.net/problem/10655) |   |  ✅  |    |
+|  |[B15666 N과 M (12)](https://www.acmicpc.net/problem/15666) |   |  ✅ |    |
+| Week 58 (24.10.13) | [B20055 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |✅ |  ✅ |   |
 |  |[B16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | ☑️ |  ✅ |    |
 |  |[B2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) | ✅| ✅  |    |
 |  |[B15663 N과 M (9)](https://www.acmicpc.net/problem/15663) |✅ | ✅  |    |
