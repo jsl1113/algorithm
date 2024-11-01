@@ -22,7 +22,7 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 60 (24.10.27) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
+| Week 61 (24.11.03) | [B1309 동물원](https://www.acmicpc.net/problem/1309) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
@@ -30,10 +30,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B5430 AC](https://www.acmicpc.net/problem/5430) |   |   |    |
 |  |[B1205 등수 구하기](https://www.acmicpc.net/problem/1205) |   |   |    |
 |  |[B9655 돌 게임](https://www.acmicpc.net/problem/9655) |   |   |    |
-| Week 60 (24.10.27) | [B1475 방 번호](https://www.acmicpc.net/problem/1475) |   |  ✅ |   |
-|  |[B1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) |   |  ✅ |    |
-|  |[B2096 내려가기](https://www.acmicpc.net/problem/2096) |   |  ☑️ |    |
-|  |[B17626 Four Squares](https://www.acmicpc.net/problem/17626) |   |  ✅ |    |
+| Week 60 (24.10.27) | [B1475 방 번호](https://www.acmicpc.net/problem/1475) | ✅|  ✅ |   |
+|  |[B1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) |☑️ |  ✅ |    |
+|  |[B2096 내려가기](https://www.acmicpc.net/problem/2096) |☑️ |  ☑️ |    |
+|  |[B17626 Four Squares](https://www.acmicpc.net/problem/17626) |✅ |  ✅ |    |
 | Week 59 (24.10.20) | [B15989 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) | ☑️ |   ✅ |   |
 |  |[B17266 어두운 굴다리](https://www.acmicpc.net/problem/17266) | ✅|   ✅ |    |
 |  |[B10655 마라톤 1](https://www.acmicpc.net/problem/10655) | ✅ |  ✅  |    |
