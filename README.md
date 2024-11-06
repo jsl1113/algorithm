@@ -33,7 +33,7 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 61 (24.11.03) | [B25757 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757) | ✅ |   |   |
 |  |[B5430 AC](https://www.acmicpc.net/problem/5430) |   |   |    |
 |  |[B1205 등수 구하기](https://www.acmicpc.net/problem/1205) |   |   |    |
-|  |[B9655 돌 게임](https://www.acmicpc.net/problem/9655) |   |   |    |
+|  |[B9655 돌 게임](https://www.acmicpc.net/problem/9655) | ✅ |   |    |
 | Week 60 (24.10.27) | [B1475 방 번호](https://www.acmicpc.net/problem/1475) | ✅|  ✅ |   |
 |  |[B1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) |☑️ |  ✅ |    |
 |  |[B2096 내려가기](https://www.acmicpc.net/problem/2096) |☑️ |  ☑️ |    |
