@@ -26,7 +26,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
 |  |[B10026 적록색약](https://www.acmicpc.net/problem/10026) |   |   |    |
-| Week 61 (24.11.03) | [B25757 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757) |   |   |   |
+| Week 61 (24.11.03) | [B25757 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757) | ✅ |   |   |
 |  |[B5430 AC](https://www.acmicpc.net/problem/5430) |   |   |    |
 |  |[B1205 등수 구하기](https://www.acmicpc.net/problem/1205) |   |   |    |
 |  |[B9655 돌 게임](https://www.acmicpc.net/problem/9655) |   |   |    |
