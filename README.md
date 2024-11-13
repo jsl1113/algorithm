@@ -22,17 +22,21 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 61 (24.11.03) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+| Week 63 (24.11.17) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
-| Week 61 (24.11.10) | [B22251 빌런 호석](https://www.acmicpc.net/problem/22251) |   |  ☑️ |   |
-|  |[B1788 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) |   | ✅  |    |
-|  |[B20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |   | ✅  |    |
-|  |[B2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448) |   |  ✅ |    |
+| Week 63 (24.11.17) | [B5212 지구 온난화](https://www.acmicpc.net/problem/5212) |   |   |   |
+|  |[B18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |   |   |    |
+|  |[B1459 걷기](https://www.acmicpc.net/problem/1459) |   |   |    |
+|  |[B1027 고층 건물](https://www.acmicpc.net/problem/1027) |   |   |    |
+| Week 62 (24.11.10) | [B22251 빌런 호석](https://www.acmicpc.net/problem/22251) | ☑️ |  ☑️ |   |
+|  |[B1788 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | ✅| ✅  |    |
+|  |[B20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | ✅| ✅  |    |
+|  |[B2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448) | ☑️|  ✅ |    |
 | Week 61 (24.11.03) | [B25757 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757) | ✅ |  ✅ |   |
-|  |[B5430 AC](https://www.acmicpc.net/problem/5430) |   | ☑️  |    |
-|  |[B1205 등수 구하기](https://www.acmicpc.net/problem/1205) |   | ✅  |    |
+|  |[B5430 AC](https://www.acmicpc.net/problem/5430) | ☑️ | ☑️  |    |
+|  |[B1205 등수 구하기](https://www.acmicpc.net/problem/1205) | ✅ | ✅  |    |
 |  |[B9655 돌 게임](https://www.acmicpc.net/problem/9655) | ✅ | ✅  |    |
 | Week 60 (24.10.27) | [B1475 방 번호](https://www.acmicpc.net/problem/1475) | ✅|  ✅ |   |
 |  |[B1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) |☑️ |  ✅ |    |
