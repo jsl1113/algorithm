@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
 | Week 63 (24.11.17) | [B5212 지구 온난화](https://www.acmicpc.net/problem/5212) |   |   |   |
-|  |[B18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |   |   |    |
-|  |[B1459 걷기](https://www.acmicpc.net/problem/1459) |   |   |    |
-|  |[B1027 고층 건물](https://www.acmicpc.net/problem/1027) |   |   |    |
+|  |[B18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |   |  ✅ |    |
+|  |[B1459 걷기](https://www.acmicpc.net/problem/1459) |   | ✅  |    |
+|  |[B1027 고층 건물](https://www.acmicpc.net/problem/1027) |   |  ☑️ |    |
 | Week 62 (24.11.10) | [B22251 빌런 호석](https://www.acmicpc.net/problem/22251) | ☑️ |  ☑️ |   |
 |  |[B1788 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | ✅| ✅  |    |
 |  |[B20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | ✅| ✅  |    |
