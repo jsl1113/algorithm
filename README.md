@@ -30,8 +30,8 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B18353 병사 배치하기](https://www.acmicpc.net/problem/18353) |   |   |    |
 |  |[B5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582) |   |   |    |
 |  |[B15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903) |   |   |    |
-| Week 64 (24.11.24) | [B11441 합 구하기](https://www.acmicpc.net/problem/11441) |   |   |   |
-|  |[B17609 회문](https://www.acmicpc.net/problem/17609) |   |   |    |
+| Week 64 (24.11.24) | [B11441 합 구하기](https://www.acmicpc.net/problem/11441) | ✅|   |   |
+|  |[B17609 회문](https://www.acmicpc.net/problem/17609) |☑️ |   |    |
 |  |[B2012 등수 매기기](https://www.acmicpc.net/problem/2012) | ✅ |   |    |
 |  |[B22233 가희와 키워드](https://www.acmicpc.net/problem/22233) |✅ |   |    |
 | Week 63 (24.11.17) | [B5212 지구 온난화](https://www.acmicpc.net/problem/5212) | ✅ |   |   |
