@@ -22,14 +22,18 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 64 (24.11.24) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+| Week 65 (24.12.01) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+|  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
+|  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
+|  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
+| Week 65 (24.12.01) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
 | Week 64 (24.11.24) | [B11441 합 구하기](https://www.acmicpc.net/problem/11441) |   |   |   |
 |  |[B17609 회문](https://www.acmicpc.net/problem/17609) |   |   |    |
-|  |[B2012 등수 매기기](https://www.acmicpc.net/problem/2012) |   |   |    |
-|  |[B22233 가희와 키워드](https://www.acmicpc.net/problem/22233) |   |   |    |
+|  |[B2012 등수 매기기](https://www.acmicpc.net/problem/2012) | ✅ |   |    |
+|  |[B22233 가희와 키워드](https://www.acmicpc.net/problem/22233) |✅ |   |    |
 | Week 63 (24.11.17) | [B5212 지구 온난화](https://www.acmicpc.net/problem/5212) | ✅ |   |   |
 |  |[B18352 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |✅|  ✅ |    |
 |  |[B1459 걷기](https://www.acmicpc.net/problem/1459) |✅ | ✅  |    |
