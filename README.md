@@ -22,10 +22,14 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 65 (24.12.01) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+| Week 66 (24.12.08) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
+| Week 66 (24.12.08) | [B2660 회장뽑기](https://www.acmicpc.net/problem/2660) |   |   |   |
+|  |[B20529 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) |   |   |    |
+|  |[B2885 초콜릿 식사](https://www.acmicpc.net/problem/2885) |   |   |    |
+|  |[B17140 이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |   |   |    |
 | Week 65 (24.12.01) | [B5567 결혼식](https://www.acmicpc.net/problem/5567) |   |   |   |
 |  |[B18353 병사 배치하기](https://www.acmicpc.net/problem/18353) |   | ✅  |    |
 |  |[B5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582) |   |✅   |    |
