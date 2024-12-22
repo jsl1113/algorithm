@@ -22,10 +22,14 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 67 (24.12.15) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+| Week 67 (24.12.29) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
+| Week 67 (24.12.29) | [B14235 크리스마스 선물](https://www.acmicpc.net/problem/14235) |   |   |   |
+|  |[B1956 운동](https://www.acmicpc.net/problem/1956) |   |   |    |
+|  |[B15683 감시](https://www.acmicpc.net/problem/15683) |   |   |    |
+|  |[B1193 분수찾기](https://www.acmicpc.net/problem/2448) |   |   |    |
 | Week 67 (24.12.22) | [B1012 유기농 배추](https://www.acmicpc.net/problem/1012) |   | ✅  |   |
 |  |[B1939 중량제한](https://www.acmicpc.net/problem/1939) |   |  ✅ |    |
 |  |[B11060 점프 점프](https://www.acmicpc.net/problem/11060) |   |  ✅ |    |
