@@ -26,10 +26,10 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
-| Week 67 (24.12.22) | [B1012 유기농 배추](https://www.acmicpc.net/problem/1012) |   |   |   |
-|  |[B1939 중량제한](https://www.acmicpc.net/problem/1939) |   |   |    |
-|  |[B11060 점프 점프](https://www.acmicpc.net/problem/11060) |   |   |    |
-|  |[B1874 스택 수열](https://www.acmicpc.net/problem/1874) |   |   |    |
+| Week 67 (24.12.22) | [B1012 유기농 배추](https://www.acmicpc.net/problem/1012) |   | ✅  |   |
+|  |[B1939 중량제한](https://www.acmicpc.net/problem/1939) |   |  ✅ |    |
+|  |[B11060 점프 점프](https://www.acmicpc.net/problem/11060) |   |  ✅ |    |
+|  |[B1874 스택 수열](https://www.acmicpc.net/problem/1874) |   | ✅  |    |
 | Week 66 (24.12.08) | [B2660 회장뽑기](https://www.acmicpc.net/problem/2660) | ✅ | ✅  |   |
 |  |[B20529 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | ☑️ | ✅  |    |
 |  |[B2885 초콜릿 식사](https://www.acmicpc.net/problem/2885) |✅ | ✅  |    |
