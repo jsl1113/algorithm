@@ -22,10 +22,14 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 67 (24.12.29) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+| Week 70 (25.01.05) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
+| Week 69 (25.01.05) | [B21318 피아노 체조](https://www.acmicpc.net/problem/21318) |   |   |   |
+|  |[B1713 후보 추천하기](https://www.acmicpc.net/problem/1713) |   |   |    |
+|  |[B17136 색종이 붙이기](https://www.acmicpc.net/problem/17136) |   |   |   |
+|  |[B17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |   |   |    |
 | Week 68 (24.12.29) | [B14235 크리스마스 선물](https://www.acmicpc.net/problem/14235) |   |   |   |
 |  |[B1956 운동](https://www.acmicpc.net/problem/1956) | ☑️ | ✅  |    |
 |  |[B15683 감시](https://www.acmicpc.net/problem/15683) |  ☑️ |  ☑️  |    |
