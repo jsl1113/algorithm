@@ -30,7 +30,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1713 후보 추천하기](https://www.acmicpc.net/problem/1713) |   |   |    |
 |  |[B17136 색종이 붙이기](https://www.acmicpc.net/problem/17136) |   |   |   |
 |  |[B17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |   |   |    |
-| Week 68 (24.12.29) | [B14235 크리스마스 선물](https://www.acmicpc.net/problem/14235) |   |   |   |
+| Week 68 (24.12.29) | [B14235 크리스마스 선물](https://www.acmicpc.net/problem/14235) | ✅ |   |   |
 |  |[B1956 운동](https://www.acmicpc.net/problem/1956) | ☑️ | ✅  |    |
 |  |[B15683 감시](https://www.acmicpc.net/problem/15683) |  ☑️ |  ☑️  |    |
 |  |[B1193 분수찾기](https://www.acmicpc.net/problem/2448) |✅ |  ✅ |    |
