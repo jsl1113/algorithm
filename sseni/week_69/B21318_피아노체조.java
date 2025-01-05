@@ -18,11 +18,8 @@ public class B21318_피아노체조 {
 
         int[] cnt = new int[n];
         for (int i = 1; i < n; i++) {
-            if (arr[i] < arr[i - 1]) {
-                cnt[i] = cnt[i - 1] + 1;
-            } else {
-                cnt[i] = cnt[i - 1];
-            }
+            if (arr[i] < arr[i - 1]) cnt[i]++;
+            cnt[i] += cnt[i - 1];
         }
 
         int q = Integer.parseInt(br.readLine());
