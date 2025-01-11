@@ -27,9 +27,9 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
 | Week 70 (25.01.12) | [B17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |   |   |   |
-|  |[B11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |   |   |    |
-|  |[B18428 감시 피하기](https://www.acmicpc.net/problem/18428) |   |   |    |
-|  |[B7795 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) |   |   |    |
+|  |[B11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ✅   |   |    |
+|  |[B18428 감시 피하기](https://www.acmicpc.net/problem/18428) | ✅   |   |    |
+|  |[B7795 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | ✅   |   |    |
 | Week 69 (25.01.05) | [B21318 피아노 체조](https://www.acmicpc.net/problem/21318) |   |   |   |
 |  |[B1713 후보 추천하기](https://www.acmicpc.net/problem/1713) |   |   |    |
 |  |[B17136 색종이 붙이기](https://www.acmicpc.net/problem/17136) |   |   |   |
