@@ -22,10 +22,13 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 71 (25.01.19) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
+| Week 72 (25.01.19) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
+| Week 71 (25.02.23) | [B7562 나이트의 이동](https://www.acmicpc.net/problem/7562) |   |   |   |
+|  |[B11501 주식](https://www.acmicpc.net/problem/11501) |   |   |    |
+|  |[B11728 배열 합치기](https://www.acmicpc.net/problem/11728) |   |   |    |
 | Week 70 (25.01.12) | [B17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | ✅|  ✅  |   |
 |  |[B11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ✅   | ✅   |    |
 |  |[B18428 감시 피하기](https://www.acmicpc.net/problem/18428) | ✅   | ✅   |    |
