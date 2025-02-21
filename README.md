@@ -26,7 +26,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
 |  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
 |  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
-| Week 71 (25.02.23) | <p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p> |   |   |   |
+| Week 71 (25.02.23) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B11501 주식](https://www.acmicpc.net/problem/11501) |   |   |    |
 |  |[B11728 배열 합치기](https://www.acmicpc.net/problem/11728) |   |   |    |
 | Week 70 (25.01.12) | [B17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | ✅|  ✅  |   |
