@@ -22,13 +22,15 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 72 (25.01.19) | [B22251 동물원](https://www.acmicpc.net/problem/22251) |   |   |   |
-|  |[B2304 카드](https://www.acmicpc.net/problem/2304) |   |   |    |
-|  |[B20922 적록색약](https://www.acmicpc.net/problem/20922) |   |   |    |
-|  |[B2448 적록색약](https://www.acmicpc.net/problem/2448) |   |   |    |
-| Week 71 (25.02.25) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
-|  |[B11501 주식](https://www.acmicpc.net/problem/11501) |   |   |    |
-|  |[B11728 배열 합치기](https://www.acmicpc.net/problem/11728) |   |   |    |
+| Week 73 (25.03.04) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+|  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
+|  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
+| Week 72 (25.03.04) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+|  |[B1112 진법 변환](https://www.acmicpc.net/problem/1112) |   |   |    |
+|  |[B5568 카드 놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
+| Week 71 (25.02.25) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |   |   |
+|  |[B11501 주식](https://www.acmicpc.net/problem/11501) |✅ |   |    |
+|  |[B11728 배열 합치기](https://www.acmicpc.net/problem/11728) | ✅ |   |    |
 | Week 70 (25.01.12) | [B17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | ✅|  ✅  |   |
 |  |[B11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ✅   | ✅   |    |
 |  |[B18428 감시 피하기](https://www.acmicpc.net/problem/18428) | ✅   | ✅   |    |
