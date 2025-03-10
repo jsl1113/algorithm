@@ -26,11 +26,11 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
 | Week 73 (25.03.11) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
-|  |[B1747 소수&팰린드롬](https://www.acmicpc.net/problem/1112) |   |   |    |
-|  |[B14891 톱니바퀴](https://www.acmicpc.net/problem/5568) |   |   |    |
+|  |[B1747 소수&팰린드롬](https://www.acmicpc.net/problem/1747) |   |   |    |
+|  |[B14891 톱니바퀴](https://www.acmicpc.net/problem/14891) |   |   |    |
 | Week 72 (25.03.04) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅  |   |   |
-|  |[B1112 진법 변환](https://www.acmicpc.net/problem/1112) | ☑️|   |    |
-|  |[B5568 카드 놓기](https://www.acmicpc.net/problem/5568) |✅  |   |    |
+|  |[B1112 진법 변환](https://www.acmicpc.net/problem/1112) | ☑️|  ✅ |    |
+|  |[B5568 카드 놓기](https://www.acmicpc.net/problem/5568) |✅  | ✅  |    |
 | Week 71 (25.02.25) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |  ✅  |   |
 |  |[B11501 주식](https://www.acmicpc.net/problem/11501) |✅ | ✅   |    |
 |  |[B11728 배열 합치기](https://www.acmicpc.net/problem/11728) | ✅ |  ✅  |    |
