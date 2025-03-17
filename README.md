@@ -28,6 +28,9 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 74 (25.03.18) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
+| Week 74 (25.03.18) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+|  |[B2615 오목](https://www.acmicpc.net/problem/2615) |   |   |    |
+|  |[B1189 컴백홈](https://www.acmicpc.net/problem/1189) |   |   |    |
 | Week 73 (25.03.11) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅ |  ✅ |   |
 |  |[B1747 소수&팰린드롬](https://www.acmicpc.net/problem/1747) |✅ |  ✅ |    |
 |  |[B14891 톱니바퀴](https://www.acmicpc.net/problem/14891) |✅ | ✅  |    |
