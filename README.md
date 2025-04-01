@@ -25,7 +25,7 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 75 (25.03.18) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
-| Week 74 (25.03.24) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 75 (25.04.06) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) |   |   |    |
 |  |[B2661 좋은수열](https://www.acmicpc.net/problem/2661) |   |   |    |
 | Week 74 (25.03.18) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅ |   |   |
