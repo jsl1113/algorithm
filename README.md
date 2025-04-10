@@ -25,7 +25,7 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 75 (25.03.18) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
-| Week 76 (25.04.13) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 76 (25.04.14) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B10164 격자상의 경로](https://www.acmicpc.net/problem/B10164) |   |   |    |
 |  |[B11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |   |   |    |
 | Week 75 (25.04.06) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
