@@ -26,7 +26,7 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
 | Week 76 (25.04.14) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
-|  |[B10164 격자상의 경로](https://www.acmicpc.net/problem/B10164) |   |   |    |
+|  |[B10164 격자상의 경로](https://www.acmicpc.net/problem/10164) |   |   |    |
 |  |[B11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |   |   |    |
 | Week 75 (25.04.06) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |   |   |
 |  |[B1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) | ✅ | ✅  |    |
