@@ -26,8 +26,8 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
 | Week 77 (25.04.21) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
-|  |[B1112 진법변환](https://www.acmicpc.net/problem/1112) |   |   |    |
-|  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
+|  |[B2631 줄세우기](https://www.acmicpc.net/problem/2631) |   |   |    |
+|  |[B16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) |   |   |    |
 | Week 76 (25.04.14) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |  ✅ |   |
 |  |[B10164 격자상의 경로](https://www.acmicpc.net/problem/10164) | ✅| ✅  |    |
 |  |[B11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | ✅ | ✅  |    |
