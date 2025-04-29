@@ -25,9 +25,9 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 77 (25.04.21) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B11051 진법변환](https://www.acmicpc.net/problem/11051) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
-| Week 78 (25.04.28) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
-|  |[B11051 이항 계수 2](https://www.acmicpc.net/problem/11051) |   |   |    |
-|  |[B3184 양](https://www.acmicpc.net/problem/3184) |   |   |    |
+| Week 78 (25.04.28) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |  ✅ |   |
+|  |[B11051 이항 계수 2](https://www.acmicpc.net/problem/11051) |   | ✅  |    |
+|  |[B3184 양](https://www.acmicpc.net/problem/3184) |   |  ✅ |    |
 | Week 77 (25.04.21) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   | ✅  |   |
 |  |[B2631 줄세우기](https://www.acmicpc.net/problem/2631) |   | ✅  |    |
 |  |[B16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) |   | ✅  |    |
