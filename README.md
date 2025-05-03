@@ -28,12 +28,12 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 79 (25.05.05) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B3151 합이 0](https://www.acmicpc.net/problem/3151) |   |   |    |
 |  |[B16926 배열 돌리기 1](https://www.acmicpc.net/problem/16926) |   |   |    |
-| Week 78 (25.04.28) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |  ✅ |   |
-|  |[B11051 이항 계수 2](https://www.acmicpc.net/problem/11051) |   | ✅  |    |
-|  |[B3184 양](https://www.acmicpc.net/problem/3184) |   |  ✅ |    |
-| Week 77 (25.04.21) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   | ✅  |   |
-|  |[B2631 줄세우기](https://www.acmicpc.net/problem/2631) |   | ✅  |    |
-|  |[B16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) |   | ✅  |    |
+| Week 78 (25.04.28) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅|  ✅ |   |
+|  |[B11051 이항 계수 2](https://www.acmicpc.net/problem/11051) | ☑️| ✅  |    |
+|  |[B3184 양](https://www.acmicpc.net/problem/3184) |✅ |  ✅ |    |
+| Week 77 (25.04.21) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅| ✅  |   |
+|  |[B2631 줄세우기](https://www.acmicpc.net/problem/2631) |✅ | ✅  |    |
+|  |[B16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) |✅| ✅  |    |
 | Week 76 (25.04.14) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |  ✅ |   |
 |  |[B10164 격자상의 경로](https://www.acmicpc.net/problem/10164) | ✅| ✅  |    |
 |  |[B11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | ✅ | ✅  |    |
