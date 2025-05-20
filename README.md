@@ -22,9 +22,12 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 79 (25.05.05) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 81 (25.05.26) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B11051 진법변환](https://www.acmicpc.net/problem/11051) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
+| Week 81 (25.05.26) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+|  |[B9935 문자열 폭발](https://www.acmicpc.net/problem/9935) |   |   |    |
+|  |[B2170 선 긋기](https://www.acmicpc.net/problem/2170) |   |   |    |
 | Week 80 (25.05.19) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B12847 꿀 아르바이트](https://www.acmicpc.net/problem/12847) | ✅ |   |    |
 |  |[B1174 줄어드는 수](https://www.acmicpc.net/problem/1174) |☑️ |   |    |
