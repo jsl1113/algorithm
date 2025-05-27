@@ -22,9 +22,12 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 81 (25.05.26) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 82 (25.06.02) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B11051 진법변환](https://www.acmicpc.net/problem/11051) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
+| Week 82 (25.06.02) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+|  |[B11568 민균이의 계략](https://www.acmicpc.net/problem/11568) |   |   |    |
+|  |[B2583 영역 구하기](https://www.acmicpc.net/problem/2583) |   |   |    |
 | Week 81 (25.05.26) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
 |  |[B9935 문자열 폭발](https://www.acmicpc.net/problem/9935) | ✅ |   |    |
 |  |[B2170 선 긋기](https://www.acmicpc.net/problem/2170) | ✅ |   |    |
