@@ -43,22 +43,22 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 77 (25.04.21) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅| ✅  |   |
 |  |[B2631 줄세우기](https://www.acmicpc.net/problem/2631) |✅ | ✅  |    |
 |  |[B16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) |✅| ✅  |    |
-| Week 76 (25.04.14) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |  ✅ |   |
+| Week 76 (25.04.14) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ |  ✅ |   |
 |  |[B10164 격자상의 경로](https://www.acmicpc.net/problem/10164) | ✅| ✅  |    |
 |  |[B11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | ✅ | ✅  |    |
-| Week 75 (25.04.06) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ | ✅  |   |
+| Week 75 (25.04.06) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ | ✅  |   |
 |  |[B1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) | ✅ | ✅  |    |
 |  |[B2661 좋은수열](https://www.acmicpc.net/problem/2661) | ✅ | ✅  |    |
-| Week 74 (25.03.18) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅ |  ✅ |   |
+| Week 74 (25.03.18) | <u><span style="color:#0969da;">Comment complete</span></u> |✅ |  ✅ |   |
 |  |[B2615 오목](https://www.acmicpc.net/problem/2615) | ✅ |  ✅ |    |
 |  |[B1189 컴백홈](https://www.acmicpc.net/problem/1189) | ✅ | ✅  |    |
-| Week 73 (25.03.11) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅ |  ✅ |   |
+| Week 73 (25.03.11) | <u><span style="color:#0969da;">Comment complete</span></u> |✅ |  ✅ |   |
 |  |[B1747 소수&팰린드롬](https://www.acmicpc.net/problem/1747) |✅ |  ✅ |    |
 |  |[B14891 톱니바퀴](https://www.acmicpc.net/problem/14891) |✅ | ✅  |    |
-| Week 72 (25.03.04) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅  |  ✅ |   |
+| Week 72 (25.03.04) | <u><span style="color:#0969da;">Comment complete</span></u> |✅  |  ✅ |   |
 |  |[B1112 진법 변환](https://www.acmicpc.net/problem/1112) | ☑️|  ✅ |    |
 |  |[B5568 카드 놓기](https://www.acmicpc.net/problem/5568) |✅  | ✅  |    |
-| Week 71 (25.02.25) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |  ✅  |   |
+| Week 71 (25.02.25) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ |  ✅  |   |
 |  |[B11501 주식](https://www.acmicpc.net/problem/11501) |✅ | ✅   |    |
 |  |[B11728 배열 합치기](https://www.acmicpc.net/problem/11728) | ✅ |  ✅  |    |
 | Week 70 (25.01.12) | [B17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | ✅|  ✅  |   |
