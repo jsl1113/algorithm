@@ -22,25 +22,25 @@ https://www.acmicpc.net/group/workbook/18638
 ## 🥇 Progress
 |  | 문제 | 윤소민 | 이지선 | 복습 |
 | :---: | :---: | :---: | :---: | :---: |
-| Week 82 (25.06.02) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 82 (25.06.02) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
 |  |[B11051 진법변환](https://www.acmicpc.net/problem/11051) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
-| Week 82 (25.06.02) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 82 (25.06.02) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
 |  |[B11568 민균이의 계략](https://www.acmicpc.net/problem/11568) |   |   |    |
 |  |[B2583 영역 구하기](https://www.acmicpc.net/problem/2583) |   |   |    |
-| Week 81 (25.05.26) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 81 (25.05.26) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
 |  |[B9935 문자열 폭발](https://www.acmicpc.net/problem/9935) | ✅ |   |    |
 |  |[B2170 선 긋기](https://www.acmicpc.net/problem/2170) | ✅ |   |    |
-| Week 80 (25.05.19) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |   |   |   |
+| Week 80 (25.05.19) | <u><span style="color:#0969da;">Comment complete</span></u>|   |   |   |
 |  |[B12847 꿀 아르바이트](https://www.acmicpc.net/problem/12847) | ✅ |   |    |
 |  |[B1174 줄어드는 수](https://www.acmicpc.net/problem/1174) |☑️ |   |    |
-| Week 79 (25.05.05) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ | ✅  |   |
+| Week 79 (25.05.05) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ | ✅  |   |
 |  |[B3151 합이 0](https://www.acmicpc.net/problem/3151) |✅ | ✅  |    |
 |  |[B16926 배열 돌리기 1](https://www.acmicpc.net/problem/16926) | ✅ | ✅  |    |
-| Week 78 (25.04.28) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> |✅|  ✅ |   |
+| Week 78 (25.04.28) | <u><span style="color:#0969da;">Comment complete</span></u> |✅|  ✅ |   |
 |  |[B11051 이항 계수 2](https://www.acmicpc.net/problem/11051) | ☑️| ✅  |    |
 |  |[B3184 양](https://www.acmicpc.net/problem/3184) |✅ |  ✅ |    |
-| Week 77 (25.04.21) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅| ✅  |   |
+| Week 77 (25.04.21) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅| ✅  |   |
 |  |[B2631 줄세우기](https://www.acmicpc.net/problem/2631) |✅ | ✅  |    |
 |  |[B16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) |✅| ✅  |    |
 | Week 76 (25.04.14) | <U><p>$\oldstyle{\normalsize{\color{#0969da}Commemt\ complete\ }}$</p></U> | ✅ |  ✅ |   |
