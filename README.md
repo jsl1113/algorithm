@@ -26,12 +26,12 @@ https://www.acmicpc.net/group/workbook/18638
 |  |[B11051 진법변환](https://www.acmicpc.net/problem/11051) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
 | Week 82 (25.06.02) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
-|  |[B11568 민균이의 계략](https://www.acmicpc.net/problem/11568) |  ✅ |   |    |
+|  |[B11568 민균이의 계략](https://www.acmicpc.net/problem/11568) |  ✅ | ✅  |    |
 |  |[B2583 영역 구하기](https://www.acmicpc.net/problem/2583) |   | ✅  |    |
 | Week 81 (25.05.26) | <u><span style="color:#0969da;">Comment complete</span></u> |   | ✅  |   |
 |  |[B9935 문자열 폭발](https://www.acmicpc.net/problem/9935) | ✅ |  ✅ |    |
 |  |[B2170 선 긋기](https://www.acmicpc.net/problem/2170) | ✅ | ✅  |    |
-| Week 80 (25.05.19) | <u><span style="color:#0969da;">Comment complete</span></u>|   | ✅  |   |
+| Week 80 (25.05.19) | <u><span style="color:#0969da;">Comment complete</span></u>|   |   |   |
 |  |[B12847 꿀 아르바이트](https://www.acmicpc.net/problem/12847) | ✅ | ✅  |    |
 |  |[B1174 줄어드는 수](https://www.acmicpc.net/problem/1174) |☑️ |  ✅ |    |
 | Week 79 (25.05.05) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ | ✅  |   |
