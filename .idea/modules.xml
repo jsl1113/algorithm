@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sseni/sseni.iml" filepath="$PROJECT_DIR$/sseni/sseni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sseni/week1-50/week1-50.iml" filepath="$PROJECT_DIR$/sseni/week1-50/week1-50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sseni/week51-100/week51-100.iml" filepath="$PROJECT_DIR$/sseni/week51-100/week51-100.iml" />
+    </modules>
+  </component>
+</project>
