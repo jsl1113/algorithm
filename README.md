@@ -25,13 +25,16 @@ https://www.acmicpc.net/group/workbook/18638
 | Week 85 (25.06.16) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
 |  |[B11051 진법변환](https://www.acmicpc.net/problem/11051) |   |   |    |
 |  |[B5568 카드놓기](https://www.acmicpc.net/problem/5568) |   |   |    |
-| Week 84 (25.06.16) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
-|  |[B1254 팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |   |   |    |
-|  |[B1927 최소 힙](https://www.acmicpc.net/problem/1927) |   |   |    |
-| Week 83 (25.06.09) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ |   |   |
-|  |[B1080 행렬](https://www.acmicpc.net/problem/1080) |✅|   |    |
-|  |[B4811 알약](https://www.acmicpc.net/problem/4811) | ☑️|   |    |
-| Week 82 (25.06.02) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅|   |   |
+| Week 85 (25.06.23) | <u><span style="color:#0969da;">Comment complete</span></u> |   |   |   |
+|  |[B1735 분수 합](https://www.acmicpc.net/problem/1735) |   |   |    |
+|  |[B2056 작업](https://www.acmicpc.net/problem/2056) |   |   |    |
+| Week 84 (25.06.16) | <u><span style="color:#0969da;">Comment complete</span></u> |   | ✅  |   |
+|  |[B1254 팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |   | ✅  |    |
+|  |[B1927 최소 힙](https://www.acmicpc.net/problem/1927) |   | ✅  |    |
+| Week 83 (25.06.09) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅ | ✅  |   |
+|  |[B1080 행렬](https://www.acmicpc.net/problem/1080) |✅| ✅  |    |
+|  |[B4811 알약](https://www.acmicpc.net/problem/4811) | ☑️|  ✅ |    |
+| Week 82 (25.06.02) | <u><span style="color:#0969da;">Comment complete</span></u> | ✅|  ✅ |   |
 |  |[B11568 민균이의 계략](https://www.acmicpc.net/problem/11568) | ✅ | ✅  |    |
 |  |[B2583 영역 구하기](https://www.acmicpc.net/problem/2583) | ✅ | ✅  |    |
 | Week 81 (25.05.26) | <u><span style="color:#0969da;">Comment complete</span></u> |✅ | ✅  |   |
