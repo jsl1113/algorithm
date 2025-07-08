@@ -19,10 +19,10 @@ public class B17952_과제는끝나지않아 {
                         Integer.parseInt(st.nextToken()),
                         Integer.parseInt(st.nextToken())
                 });
+            }
 
-                if (!stack.isEmpty() && --stack.peek()[1] == 0) {
-                    answer += stack.pop()[0];
-                }
+            if (!stack.isEmpty() && --stack.peek()[1] == 0) {
+                answer += stack.pop()[0];
             }
         }
 
